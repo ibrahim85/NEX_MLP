@@ -322,7 +322,7 @@ def load_data2(dataset):
     y=test_set[1]
     rval = [(train_set_x, train_set_y), (valid_set_x, valid_set_y),
             (test_set_x, test_set_y)]
-    return rval,y
+    return rval
 
 def sgd_optimization_mnist(learning_rate=0.1, n_epochs=1000,
                            dataset='mnist.pkl.gz',
@@ -347,7 +347,7 @@ def sgd_optimization_mnist(learning_rate=0.1, n_epochs=1000,
     """
     dataset="twitterSimuData100.zip"
     dataset="twitterSimuData96Fea100.zip"
-    datasets,y = load_data2(dataset)
+    datasets = load_data2(dataset)
 
     train_set_x, train_set_y = datasets[0]
     valid_set_x, valid_set_y = datasets[1]
@@ -572,15 +572,16 @@ def predict():
 
     # We can test it on some examples from test test
     dataset='twitterSimuData96Fea100.zip'
-    datasets,y = load_data2(dataset)
+    datasets = load_data2(dataset)
     test_set_x, test_set_y = datasets[2]
     test_set_x = test_set_x.get_value()
+    y_trueLabel=test_set_y.eval()
     #test_set_y = test_set_y.get_value()
     #predicted_values = predict_model(test_set_x[:10])
     #print("Predicted values for the first 10 examples in test set:")
     #print(predicted_values)
     predicted_values = predict_model(test_set_x)
-    accuracy,pre,rec,f1=pre_rec_f1(y,predicted_values)
+    accuracy,pre,rec,f1=pre_rec_f1(y_trueLabel,predicted_values)
     print("Predicted values for the first 10 examples in test set:")
     print("accuracy=%f\n pre=%f rec=%f\n f1=%.3f "%(accuracy,pre,rec,f1) )
 

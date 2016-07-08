@@ -236,7 +236,7 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000,
 
    """
     dataset="twitterSimuData96Fea100.zip"   
-    datasets,ybar = load_data2(dataset)
+    datasets = load_data2(dataset)
 
     train_set_x, train_set_y = datasets[0]
     valid_set_x, valid_set_y = datasets[1]
@@ -402,11 +402,12 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000,
                           (epoch, minibatch_index + 1, n_train_batches,
                            test_score * 100.))
                            
-                    numpy.save('mlp_hid_W_best_model.npy',classifier.params[0])
-                    numpy.save('mlp_hid_b_best_model.npy',classifier.params[1])
-                    numpy.save('mlp_lg_W_best_model.npy',classifier.params[2])
-                    numpy.save('mlp_lg_W_best_model.npy',classifier.params[3])
-                    
+#                    numpy.save('mlp_hid_W_best_model.npy',classifier.params[0].get_value())
+#                    numpy.save('mlp_hid_b_best_model.npy',classifier.params[1].get_value())
+#                    numpy.save('mlp_lg_W_best_model.npy',classifier.params[2].get_value())
+#                    numpy.save('mlp_lg_b_best_model.npy',classifier.params[3].get_value())
+                    with open('best_model.pkl', 'wb') as f:
+                        pickle.dump((classifier.params, classifier.logRegressionLayer.y_pred,classifier.input), f)
 
             if patience <= iter:
                 done_looping = True
@@ -419,41 +420,111 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000,
     print(('The code for file ' +
            os.path.split(__file__)[1] +
            ' ran for %.2fm' % ((end_time - start_time) / 60.)), file=sys.stderr)
-def predict(n_hidden=500):
+
+def pre_rec_f1(y,result):
+    TP=0.0
+    FP=0.0
+    TN=0.0
+    FN=0.0
+    
+    for i in range(len(y)):
+        #print(y[i],result[i])
+        if y[i]==1:
+            if y[i]==result[i]:
+                TP+=1.0
+            else:
+                FN+=1.0
+        else:
+            if y[i]==result[i]:
+                TN+=1.0
+            else:
+                FP+=1.0
+    if TP+FP==0:
+        pre=0.001
+    else:
+        pre=TP/(TP+FP)
+    if TP+FN==0:
+        rec=0.001
+    else:
+        rec=TP/(TP+FN)
+    if TP+TN+FP+FN==0:
+        accuracy=0.001
+    else:
+        accuracy=(TN+TP)/(TP+TN+FP+FN)    
+    
+    if pre==0 or rec==0:
+        f1=0.001
+    else:
+        f1=2*(pre*rec)/(pre+rec)
+    print(TP,TN,FP,FN)   
+    return accuracy,pre,rec,f1
+    
+def predict(dataset='twitterSimuData96Fea100.zip', n_hidden=500, n_in=91, n_out=2):
+    datasets = load_data2(dataset)
+    test_set_x, test_set_y = datasets[2]
+    test_set_x = test_set_x.get_value()
+    y_trueLable = test_set_y.eval()
+
+    rng = numpy.random.RandomState(1234)
+    x = T.matrix('x')
+
+    # Declare MLP classifier
+    classifier = MLP(
+        rng=rng,
+        input=x,
+        n_in=n_in,
+        n_hidden=n_hidden,
+        n_out=n_out
+    )
+
+    # load the saved model
+    classifier.params, classifier.logRegressionLayer.y_pred,classifier.input = pickle.load(open('best_model.pkl'))
+
+    predict_model = theano.function(inputs=[classifier.input],outputs=classifier.logRegressionLayer.y_pred)
+
+    #print("Expected values: ", test_set_y[:10])
+    predicted_values = predict_model(test_set_x)
+    #print("Predicted values:", predicted_values)
+    accuracy,pre,rec,f1=pre_rec_f1(y_trueLable,predicted_values)
+    print("Predicted values for the first 10 examples in test set:")
+    print("accuracy=%f\n pre=%f rec=%f\n f1=%.3f "%(accuracy,pre,rec,f1) )
+    
+def predict2(n_hidden=500):
     """
     An example of how to load a trained model and use it
     to predict labels.
     """
     dataset='twitterSimuData96Fea100.zip'
-    datasets,y = load_data2(dataset)
+    datasets = load_data2(dataset)
     test_set_x, test_set_y = datasets[2]
     test_set_x = test_set_x.get_value()
     
     
     # load the saved model
-    hid_W=theano.shared(value=numpy.load('mlp_hid_W_best_model.npy'), name='hid_W', borrow=True)
-    hid_b=theano.shared(value=numpy.load('mlp_hid_b_best_model.npy'), name='hid_b', borrow=True)
-    lg_W =theano.shared(value=numpy.load('mlp_lg_W_best_model.npy'), name='lg_W', borrow=True)
-    lg_b =theano.shared(value=numpy.load('mlp_lg_b_best_model.npy'), name='lg_b', borrow=True)
+    
+    #theano.shared(value=numpy.asarray(numpy.load('mlp_hid_W_best_model.npy'),dtype=theano.config.floatX, name='hid_W', borrow=True))
+    #theano.shared(value=numpy.asarray(numpy.load('mlp_hid_b_best_model.npy'),dtype=theano.config.floatX, name='hid_b', borrow=True))
+    #theano.shared(value=numpy.asarray(numpy.load('mlp_lg_W_best_model.npy'),dtype=theano.config.floatX, name='lg_W', borrow=True))
+    #theano.shared(value=numpy.asarray(numpy.load('mlp_lg_b_best_model.npy'),dtype=theano.config.floatX, name='lg_b', borrow=True))
     
     rng = numpy.random.RandomState(1234)
     classifier = MLP(
         rng=rng,
-        input=x,
+        input=test_set_x,
         n_in=91,
         n_hidden=n_hidden,
         n_out=2
     )
-    classifier.hiddenLayer.W=hid_W
-    classifier.hiddenLayer.b=hid_b
-    classifier.logRegressionLayer.W=lg_W
-    classifier.logRegressionLayer.b=lg_b
+    classifier.hiddenLayer.W.set_value(numpy.load('mlp_hid_W_best_model.npy'))
+    classifier.hiddenLayer.b.set_value(numpy.load('mlp_hid_b_best_model.npy'))
+    classifier.logRegressionLayer.W.set_value(numpy.load('mlp_lg_W_best_model.npy'),borrow=True)
+    classifier.logRegressionLayer.b.set_value(numpy.load('mlp_lg_b_best_model.npy'))
     
 
     # compile a predictor function
     predict_model = theano.function(
         inputs=[classifier.input],
-        outputs=classifier.y_pred)
+        outputs=classifier.logRegressionLayer.p_y_given_x)
 
     # We can test it on some examples from test test
     
@@ -468,3 +539,4 @@ def predict(n_hidden=500):
 
 if __name__ == '__main__':
     test_mlp()
+    predict()
