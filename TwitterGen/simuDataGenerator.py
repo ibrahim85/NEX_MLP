@@ -119,7 +119,7 @@ gc.collect()
 ##################################################################################
         
         
-def getSVMFeatureVectorWithLabels(tweets, featureList):
+def getFeatureVectorWithLabels(tweets, featureList):
     
     map = {}
     data=[]
@@ -166,7 +166,7 @@ print 'Test data Done...'
 
 
 twitter_verify=pickle.load(open("verify.pkl","rb"))
-veriryData=getSVMFeatureVectorWithLabels(twitter_verify,wordlist)
+veriryData=getFeatureVectorWithLabels(twitter_verify,wordlist)
 twitter_verify=[]
 print 'Verify data Done...'
 
