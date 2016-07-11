@@ -154,12 +154,12 @@ def getFeatureVectorWithLabels(tweets, featureList):
     
 
 twitter_train=pickle.load(open("train.pkl","rb"))
-trainData =getSVMFeatureVectorWithLabels(twitter_train,wordlist)
+trainData =getFeatureVectorWithLabels(twitter_train,wordlist)
 twitter_train=[] 
 print 'Train data Done...'
 
 twitter_testing=pickle.load(open("test.pkl","rb"))
-testData  =getSVMFeatureVectorWithLabels(twitter_testing,wordlist)
+testData  =getFeatureVectorWithLabels(twitter_testing,wordlist)
 twitter_testing=[]
 print 'Test data Done...'
 
