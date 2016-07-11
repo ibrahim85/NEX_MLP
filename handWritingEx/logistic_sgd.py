@@ -277,13 +277,17 @@ def load_data2(dataset):
     zfile = zipfile.ZipFile(dataset)
     for finfo in zfile.infolist():
         ifile = zfile.open(finfo)
-        
+
         try:
             train_set, valid_set, test_set = pickle.load(ifile, encoding='latin1')
-            
+
         except:
             train_set, valid_set, test_set = pickle.load(ifile)
-    #print(train_set, valid_set, test_set) 
+
+    print("Training data size:",len(train_set[0]))
+    print("Validating data size:",len(valid_set[0]))
+    print("Testing data size:",len(test_set[0]))
+    #print(train_set, valid_set, test_set)
     # train_set, valid_set, test_set format: tuple(input, target)
     # input is a numpy.ndarray of 2 dimensions (a matrix)
     # where each row corresponds to an example. target is a
@@ -346,7 +350,7 @@ def sgd_optimization_mnist(learning_rate=0.1, n_epochs=1000,
 
     """
     dataset="twitterSimuData100.zip"
-    dataset="twitterSimuData96Fea100.zip"
+    dataset="twitterSimuData96Fea3Class.pkl.zip"
     datasets = load_data2(dataset)
 
     train_set_x, train_set_y = datasets[0]
@@ -523,7 +527,7 @@ def pre_rec_f1(y,result):
     FP=0.0
     TN=0.0
     FN=0.0
-    
+
     for i in range(len(y)):
         #print(y[i],result[i])
         if y[i]==1:
@@ -547,15 +551,15 @@ def pre_rec_f1(y,result):
     if TP+TN+FP+FN==0:
         accuracy=0.001
     else:
-        accuracy=(TN+TP)/(TP+TN+FP+FN)    
-    
+        accuracy=(TN+TP)/(TP+TN+FP+FN)
+
     if pre==0 or rec==0:
         f1=0.001
     else:
         f1=2*(pre*rec)/(pre+rec)
-    print(TP,TN,FP,FN)   
+    print(TP,TN,FP,FN)
     return accuracy,pre,rec,f1
-    
+
 def predict():
     """
     An example of how to load a trained model and use it
@@ -571,7 +575,7 @@ def predict():
         outputs=classifier.y_pred)
 
     # We can test it on some examples from test test
-    dataset='twitterSimuData96Fea100.zip'
+    dataset='twitterSimuData96Fea3Class.pkl.zip'
     datasets = load_data2(dataset)
     test_set_x, test_set_y = datasets[2]
     test_set_x = test_set_x.get_value()
