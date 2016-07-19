@@ -1,0 +1,82 @@
+airconditioner
+airconditioning
+avalanche
+below freezing
+blizzard 
+boiling hot
+breeze 
+Celsius
+centigrade
+Fahrenheit
+chilly 
+clear 
+cloud 
+cloudy 
+cold spell
+cool
+cyclone 
+degrees 
+drizzle 
+drought 
+flood 
+flurries 
+fog 
+foggy
+forecast
+forecaster 
+freezing cold
+frost
+frostbite 
+hail
+heat stroke
+heatwave 
+humid 
+humidity 
+hurricane 
+ice 
+icy 
+lightning 
+mild 
+meteorologist 
+minus
+negative
+overcast 
+partly cloudy
+precipitation 
+puddle 
+rain 
+rainy
+raindrop 
+rainbow 
+raining
+scorcher 
+scorching 
+season 
+shower 
+sleet 
+slush 
+smog 
+snow 
+snowstorm 
+snowy 
+shine 
+sun 
+sunshine 
+sunny 
+sunburn 
+sunglasses
+shades 
+suntan
+tanned 
+sunscreen
+suntan lotion
+temperature 
+thermometer 
+thunder
+thunderstorm 
+tornado 
+typhoon 
+hurricane
+umbrella 
+wind 
+windy
