@@ -440,13 +440,6 @@ aim
 aimless
 aimlessly
 ain't
-air
-air bag
-air base
-airborne
-air-conditioned
-air conditioner
-air conditioning
 aircraft
 aircraft carrier
 airfare
@@ -465,8 +458,6 @@ airs
 airspace
 airstrip
 airtight
-air time
-air traffic controller
 airwaves
 airy
 aisle

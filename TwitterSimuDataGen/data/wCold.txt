@@ -1,13 +1,16 @@
+air
 avalanche
-below freezing
+below
+freezing
 blizzard
 breeze
 chilly
-cold spell
+cold
+spell
 cool
 cyclone
 flurries
-freezing cold
+freezing
 frost
 frostbite
 hail

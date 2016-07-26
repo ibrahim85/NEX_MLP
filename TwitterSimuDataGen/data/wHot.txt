@@ -1,6 +1,7 @@
 airconditioner
 airconditioning
-boiling hot
+boiling
+hot
 Celsius
 centigrade
 Fahrenheit
@@ -13,16 +14,16 @@ fog
 foggy
 forecast
 forecaster
-heat stroke
+heat
+stroke
 heatwave
 humid
 humidity
-
 lightning
 mild
 meteorologist
 overcast
-partly cloudy
+cloudy
 puddle
 rain
 rainy
@@ -44,7 +45,7 @@ shades
 suntan
 tanned
 sunscreen
-suntan lotion
+suntan
 temperature
 thermometer
 umbrella
