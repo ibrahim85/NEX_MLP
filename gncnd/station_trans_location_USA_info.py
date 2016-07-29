@@ -71,8 +71,8 @@ def main():
                 terms=line.split()
 
                 geo_code=str(terms[1])+","+str(terms[2])
-
                 url="http://localhost:8081/geocoder.html?ll="+geo_code
+                url="http://demo.twofishes.net//geocoder.html?ll="+geo_code
                 resp = requests.get(url)
                 dataJson=resp.json()['interpretations'][0]
                 featJson=dict(dict(dataJson)['feature'])
