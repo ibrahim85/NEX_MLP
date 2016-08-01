@@ -67,7 +67,7 @@ def main():
 
     with open("USA_ghcnd-stations-loc.txt","r") as gsT:
         for i,line in enumerate(gsT.readlines()):
-            if i>8543:
+            if i>12163:
                 terms=line.split()
 
                 geo_code=str(terms[1])+","+str(terms[2])
