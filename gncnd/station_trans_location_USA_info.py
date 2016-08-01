@@ -63,33 +63,40 @@ def LatLong_2_Location(lat_long):
     return [city,state,country]
 
 def main():
-    glsT= open("USA_ghcnd-stations-loc_withInfo.txt","a+")
+    glsT= open("USA_ghcnd-stations-loc_city_states.txt","a+")
 
     with open("USA_ghcnd-stations-loc.txt","r") as gsT:
         for i,line in enumerate(gsT.readlines()):
-            if i>17049:
+            if i>=34734:
                 terms=line.split()
 
                 geo_code=str(terms[1])+","+str(terms[2])
                 url="http://localhost:8081/geocoder.html?ll="+geo_code
-                url="http://demo.twofishes.net//geocoder.html?ll="+geo_code
+                #url="http://demo.twofishes.net//geocoder.html?ll="+geo_code
                 resp = requests.get(url)
-                dataJson=resp.json()['interpretations'][0]
-                featJson=dict(dict(dataJson)['feature'])
-                if featJson.get('displayName')==None:
-                    name1='Unkown'
-                else:
-                    name1=featJson.get('displayName').replace(" ","_")
+                #print(json.dumps(resp.json(), indent=4))
+                #print(len(resp.json()['interpretations'][0]))
+                cityFeat=dict(dict(resp.json()['interpretations'][0])['feature'])
+                stateFeat={}
+                try:
+                    stateFeat=dict(dict(resp.json()['interpretations'][1])['feature'])
+                except IndexError:
+                    stateFeat['name'] = None
 
-                if featJson.get('name')==None:
-                    name2='Unkown'
+                if cityFeat.get('displayName')==None:
+                    city='Unkown'
                 else:
-                    name2=featJson.get('name').replace(" ","_")
+                    city=cityFeat.get('displayName').replace(" ","_")
 
-                city,state,country=LatLong_2_Location(geo_code)
-                print(i,line)
-                print(str(i)+">>"+terms[0]+" "+terms[1] +" "+terms[2]  +" "+name1 +" "+name2)
-                linel=str(terms[0])+" "+str(terms[1]) +" "+str(terms[2])  +" "+name1 +" "+name2 +"\n"
+                if stateFeat.get('name')==None:
+                    state='Unkown'
+                else:
+                    state=stateFeat.get('name').replace(" ","_")
+
+                #city,state,country=LatLong_2_Location(geo_code)
+                #print(i,line)
+                print(str(i)+">>"+terms[0]+" "+terms[1] +" "+terms[2]  +" "+city +" "+state)
+                linel=str(terms[0])+" "+str(terms[1]) +" "+str(terms[2])  +" "+city +" "+state +"\n"
                 glsT.write((linel).encode('utf-8'))
 
 
