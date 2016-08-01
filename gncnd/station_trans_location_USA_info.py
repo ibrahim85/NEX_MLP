@@ -37,7 +37,7 @@ def LatLong_2_Location(lat_long):
     geolocator = Nominatim()
     location = geolocator.reverse(lat_long, timeout=30)
 
-    print(location)
+    #print(location)
 
     ###City###
     print(location.raw)
@@ -67,7 +67,7 @@ def main():
 
     with open("USA_ghcnd-stations-loc.txt","r") as gsT:
         for i,line in enumerate(gsT.readlines()):
-            if i>1145:
+            if i>6077:
                 terms=line.split()
 
                 geo_code=str(terms[1])+","+str(terms[2])
@@ -89,7 +89,8 @@ def main():
                 city,state,country=LatLong_2_Location(geo_code)
                 print(i,line)
                 print(str(i)+">>"+terms[0]+" "+terms[1] +" "+terms[2]  +" "+name1 +" "+name2)
-                glsT.write(terms[0]+" "+terms[1] +" "+terms[2]  +" "+name1 +" "+name2 +"\n")
+                linel=str(terms[0])+" "+str(terms[1]) +" "+str(terms[2])  +" "+name1 +" "+name2 +"\n"
+                glsT.write((linel).encode('utf-8'))
 
 
                 #glsT.write(terms[0]+" "+terms[1] +" "+terms[2]  +" "+city +" "+state +" "+country +"\n")
