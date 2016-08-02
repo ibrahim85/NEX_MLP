@@ -1,5 +1,4 @@
 US009052008 43.7333 -96.6333 Minnehaha_County South_Dakota
-US009052008 43.7333 -96.6333 Minnehaha_County South_Dakota
 US10RMHS145 40.5268 -105.1113 Fort_Collins Larimer_County
 US10adam001 40.5680 -98.5069 Adams_County Nebraska
 US10adam002 40.5093 -98.5493 Adams_County Nebraska
@@ -34733,9 +34732,6 @@ USC00170600 45.0697 -69.9053 Somerset_County Maine
 USC00170655 45.2669 -69.5839 Piscataquis_County Maine
 USC00170814 45.6603 -69.8120 Somerset_County Maine
 USC00170833 46.4283 -67.8442 Aroostook_County Maine
-USC00170843 44.1167 -70.7333 Cumberland_County Maine
-USC00170844 44.0700 -70.7467 Cumberland_County Maine
-USC00171070 44.3500 -68.2333 Hancock_County Maine
 USC00170843 44.1167 -70.7333 Cumberland_County Maine
 USC00170844 44.0700 -70.7467 Cumberland_County Maine
 USC00171070 44.3500 -68.2333 Hancock_County Maine
