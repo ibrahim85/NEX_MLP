@@ -1,0 +1,3221 @@
+Sutter 101 California
+Huron 063 Michigan
+Oneida 085 Wisconsin
+Pontotoc 123 Oklahoma
+Menifee 165 Kentucky
+Cooke 097 Texas
+Haywood 087 North Carolina
+Cedar 027 Nebraska
+Elkhart 039 Indiana
+Washington 143 Arkansas
+Howard 067 Indiana
+Carroll 003 New Hampshire
+Wise 195 Virginia
+Franklin 067 Virginia
+Gregory 053 South Dakota
+Apache 001 Arizona
+Jefferson 063 Mississippi
+Lac qui Parle 073 Minnesota
+Cochise 003 Arizona
+Missoula 063 Montana
+Wright 197 Iowa
+Tillman 141 Oklahoma
+Cumberland 051 North Carolina
+Jackson 097 Iowa
+Davidson 057 North Carolina
+Mobile 097 Alabama
+Chippewa 017 Wisconsin
+Aguadilla 005 Puerto Rico
+Major 093 Oklahoma
+Deer Lodge 023 Montana
+Wilson 205 Kansas
+Polk 149 North Carolina
+Trempealeau 121 Wisconsin
+Long 183 Georgia
+Milam 331 Texas
+Hart 147 Georgia
+Toombs 279 Georgia
+Knox 107 Nebraska
+Reynolds 179 Missouri
+Henry 083 Missouri
+Shelby 205 Missouri
+Mitchell 335 Texas
+Prince George 149 Virginia
+Towner 095 North Dakota
+Washington 009 Rhode Island
+Jefferson 065 Pennsylvania
+Des Moines 057 Iowa
+Jim Hogg 247 Texas
+Garden 069 Nebraska
+San Diego 073 California
+Estill 065 Kentucky
+Waller 473 Texas
+Cherokee 021 Oklahoma
+Essex 013 New Jersey
+Polk 139 Tennessee
+Montgomery 135 Illinois
+Tama 171 Iowa
+Pierce 093 Wisconsin
+Scott 139 Minnesota
+Walthall 147 Mississippi
+Plumas 063 California
+Washington 023 Vermont
+Wabasha 157 Minnesota
+Leslie 131 Kentucky
+Schoharie 095 New York
+Gwinnett 135 Georgia
+Jefferson 051 Idaho
+Massac 127 Illinois
+Chase 017 Kansas
+Kidder 043 North Dakota
+Allen 003 Indiana
+Union 161 Indiana
+Walker 471 Texas
+Mercer 129 Missouri
+Poweshiek 157 Iowa
+Matanuska-Susitna 170 Alaska
+Pike 163 Missouri
+Warren 187 Virginia
+Caldwell 027 North Carolina
+Carlton 017 Minnesota
+Bethel 050 Alaska
+Leon 289 Texas
+Alfalfa 003 Oklahoma
+Codington 029 South Dakota
+Decatur 039 Kansas
+Johnson 251 Texas
+Iosco 069 Michigan
+Mora 033 New Mexico
+Phelps 161 Missouri
+Grays Harbor 027 Washington
+Campbell 037 Kentucky
+Pendleton 071 West Virginia
+Comanche 093 Texas
+Jefferson 081 Ohio
+Shelby 419 Texas
+Thurston 173 Nebraska
+Chittenden 007 Vermont
+Chatham 037 North Carolina
+Florida 054 Puerto Rico
+Putnam 107 Florida
+Alpine 003 California
+Yadkin 197 North Carolina
+Arenac 011 Michigan
+Douglas 005 Nevada
+Amelia 007 Virginia
+Tucker 093 West Virginia
+Knox 013 Maine
+Hemphill 211 Texas
+Morrow 049 Oregon
+Knox 083 Ohio
+Carson City 510 Nevada
+Washington 177 Nebraska
+Monterey 053 California
+Goochland 075 Virginia
+Lares 081 Puerto Rico
+Somervell 425 Texas
+Washington 067 Oregon
+Prince William 153 Virginia
+Clay 025 Illinois
+Watauga 189 North Carolina
+Kent 029 Maryland
+Bullitt 029 Kentucky
+Scott 151 Tennessee
+Grant 053 Arkansas
+Greensville 081 Virginia
+Harrison 081 Missouri
+Calhoun 017 South Carolina
+Allegany 001 Maryland
+Chicot 017 Arkansas
+Bucks 017 Pennsylvania
+Bartow 015 Georgia
+DeKalb 037 Illinois
+Harper 059 Oklahoma
+Wilkes 317 Georgia
+Monroe 123 Tennessee
+Hyde 095 North Carolina
+Crane 103 Texas
+Greene 055 Arkansas
+Tolland 013 Connecticut
+Madison 053 New York
+Lee 061 South Carolina
+Webster 155 Mississippi
+Ottawa 115 Oklahoma
+Lake 085 Ohio
+Marion 127 Missouri
+McIntosh 091 Oklahoma
+Hawaii 001 Hawaii
+New Haven 009 Connecticut
+Pershing 027 Nevada
+Mifflin 087 Pennsylvania
+Story 169 Iowa
+Hunterdon 019 New Jersey
+Mecosta 107 Michigan
+Caldwell 055 Texas
+Meriwether 199 Georgia
+Washington 163 Minnesota
+Nantucket 019 Massachusetts
+Mecklenburg 119 North Carolina
+Schuyler 197 Missouri
+Marengo 091 Alabama
+Merrick 121 Nebraska
+Bottineau 009 North Dakota
+Camden 039 Georgia
+Nemaha 131 Kansas
+McDonough 109 Illinois
+Ford 053 Illinois
+Summit 153 Ohio
+Daggett 009 Utah
+Kalkaska 079 Michigan
+Winona 169 Minnesota
+Runnels 399 Texas
+Sunflower 133 Mississippi
+Dunklin 069 Missouri
+Hayes 085 Nebraska
+Erie 029 New York
+Ellis 051 Kansas
+Jersey 083 Illinois
+Bienville 013 Louisiana
+Hubbard 057 Minnesota
+Zavala 507 Texas
+Dodge 053 Nebraska
+Charlotte 037 Virginia
+Clayton 043 Iowa
+Tarrant 439 Texas
+De Baca 011 New Mexico
+Sanpete 039 Utah
+Oneida 065 New York
+Benton 011 Iowa
+Keweenaw 083 Michigan
+Swain 173 North Carolina
+San Juan 127 Puerto Rico
+Dolores 033 Colorado
+Pointe Coupee 077 Louisiana
+Warren 301 Georgia
+Madison 195 Georgia
+Lewis and Clark 049 Montana
+Hoke 093 North Carolina
+Nash 127 North Carolina
+Clinton 053 Kentucky
+Laurens 175 Georgia
+Martinsville 690 Virginia
+St. Joseph 141 Indiana
+Vanderburgh 163 Indiana
+Mackinac 097 Michigan
+Ouachita 103 Arkansas
+Pulaski 235 Georgia
+Frederick 021 Maryland
+Wayne 181 Tennessee
+Burlington 005 New Jersey
+Hamilton 193 Texas
+Riverside 065 California
+Nance 125 Nebraska
+Charles City 036 Virginia
+Barber 007 Kansas
+Mitchell 121 North Carolina
+Brown 049 Texas
+Richmond 153 North Carolina
+Loudon 105 Tennessee
+Park 093 Colorado
+Pondera 073 Montana
+Cocke 029 Tennessee
+Corozal 047 Puerto Rico
+Glynn 127 Georgia
+Bamberg 009 South Carolina
+Logan 045 West Virginia
+Alamance 001 North Carolina
+Coamo 043 Puerto Rico
+Montour 093 Pennsylvania
+Lincoln 105 Kansas
+Salem 775 Virginia
+Lafayette 065 Wisconsin
+Grenada 043 Mississippi
+Price 099 Wisconsin
+Snohomish 061 Washington
+Appomattox 011 Virginia
+Osage 139 Kansas
+Herkimer 043 New York
+Baltimore 510 Maryland
+Dearborn 029 Indiana
+Glasscock 173 Texas
+Talladega 121 Alabama
+Tensas 107 Louisiana
+Casey 045 Kentucky
+Coffee 069 Georgia
+Kemper 069 Mississippi
+Macon 121 Missouri
+Habersham 137 Georgia
+Prowers 099 Colorado
+Rappahannock 157 Virginia
+Wichita 203 Kansas
+Parmer 369 Texas
+Raleigh 081 West Virginia
+Craig 045 Virginia
+Webster 181 Nebraska
+Wayne 099 West Virginia
+Lincoln 079 Arkansas
+Sargent 081 North Dakota
+Jackson 063 Florida
+Erie 049 Pennsylvania
+McKean 083 Pennsylvania
+Fayette 047 Ohio
+McMullen 311 Texas
+Oglethorpe 221 Georgia
+Cape Girardeau 031 Missouri
+Campbell 031 Virginia
+Kay 071 Oklahoma
+Adams 001 Colorado
+Pennington 103 South Dakota
+Macon 193 Georgia
+St. Bernard 087 Louisiana
+Livingston 063 Louisiana
+Cook 031 Illinois
+Winnebago 139 Wisconsin
+Halifax 083 North Carolina
+Ulster 111 New York
+Hormigueros 067 Puerto Rico
+Franklin 041 Louisiana
+Warren 165 Ohio
+Burke 033 Georgia
+Logan 047 North Dakota
+Pasco 101 Florida
+Morgan 175 Kentucky
+Yabucoa 151 Puerto Rico
+Sabana Grande 121 Puerto Rico
+Sandoval 043 New Mexico
+Smith 183 Kansas
+Kaufman 257 Texas
+Union 291 Georgia
+Lynn 305 Texas
+Sequoyah 135 Oklahoma
+District of Columbia 001 District of Columbia
+Owyhee 073 Idaho
+Escambia 053 Alabama
+Towns 281 Georgia
+Otsego 137 Michigan
+Howell 091 Missouri
+Power 077 Idaho
+Johnston 069 Oklahoma
+Orleans 071 Louisiana
+Rowan 159 North Carolina
+Lawrence 101 Illinois
+Madera 039 California
+Tishomingo 141 Mississippi
+Teton 039 Wyoming
+Harris 201 Texas
+Adams 001 Pennsylvania
+Franklin 059 Kansas
+Franklin 620 Virginia
+Sweetwater 037 Wyoming
+Williams 171 Ohio
+Harrisonburg 660 Virginia
+Newton 145 Missouri
+Owen 187 Kentucky
+Simpson 127 Mississippi
+Garfield 071 Nebraska
+Benton 009 Mississippi
+Brooks 047 Texas
+Saline 125 Arkansas
+Lincoln 181 Georgia
+Flathead 029 Montana
+Jewell 089 Kansas
+El Paso 041 Colorado
+Dunn 025 North Dakota
+Ravalli 081 Montana
+Clatsop 007 Oregon
+Fulton 075 Kentucky
+Cass 067 Texas
+Rusk 107 Wisconsin
+Wood 499 Texas
+Fountain 045 Indiana
+Quitman 239 Georgia
+Wayne 153 Mississippi
+Butler 015 Kansas
+Otero 035 New Mexico
+Cook 075 Georgia
+Slope 087 North Dakota
+Boyd 015 Nebraska
+Pickens 077 South Carolina
+Greene 133 Georgia
+McPherson 089 South Dakota
+Stokes 169 North Carolina
+Lawrence 075 Arkansas
+Barron 005 Wisconsin
+Nassau 059 New York
+Clay 027 South Dakota
+Ziebach 137 South Dakota
+Pima 019 Arizona
+Nueces 355 Texas
+Le Flore 079 Oklahoma
+Yuba 115 California
+Nemaha 127 Nebraska
+Cavalier 019 North Dakota
+Bureau 011 Illinois
+Custer 041 Nebraska
+Madison 115 North Carolina
+Cannon 015 Tennessee
+Putnam 141 Tennessee
+Stanley 117 South Dakota
+Davison 035 South Dakota
+Butler 023 Missouri
+Juab 023 Utah
+Hamilton 081 Nebraska
+Kings 031 California
+Gurabo 063 Puerto Rico
+Eau Claire 035 Wisconsin
+Santa Isabel 133 Puerto Rico
+Pulaski 153 Illinois
+Brookings 011 South Dakota
+Hutchinson 233 Texas
+Hamilton 047 Florida
+Grant 075 Nebraska
+Lamoille 015 Vermont
+Haskell 061 Oklahoma
+Maries 125 Missouri
+Lea 025 New Mexico
+Lincoln 043 Washington
+Muhlenberg 177 Kentucky
+Liberty 179 Georgia
+Ellis 045 Oklahoma
+Rio Arriba 039 New Mexico
+Dawson 047 Nebraska
+Adams 001 Illinois
+Jackson 035 West Virginia
+Klamath 035 Oregon
+Orleans 019 Vermont
+Johnson 091 Tennessee
+Grant 081 Kentucky
+Surry 171 North Carolina
+Scott 201 Missouri
+Union 179 North Carolina
+Avoyelles 009 Louisiana
+Essex 031 New York
+Yankton 135 South Dakota
+Marshall 089 Minnesota
+Blaine 005 Montana
+Maricao 093 Puerto Rico
+Barry 009 Missouri
+Louisa 115 Iowa
+Chautauqua 013 New York
+Black Hawk 013 Iowa
+Mercer 055 West Virginia
+Grant 023 West Virginia
+Clinton 037 Michigan
+Madison 113 Virginia
+Lyon 119 Iowa
+Phelps 137 Nebraska
+Luce 095 Michigan
+Fairfield 039 South Carolina
+Cameron 023 Pennsylvania
+Florence 041 South Carolina
+Martin 091 Minnesota
+Monroe 081 Wisconsin
+Turner 287 Georgia
+Larimer 069 Colorado
+Del Norte 015 California
+Mitchell 131 Iowa
+Heard 149 Georgia
+Webster 233 Kentucky
+Hartford 003 Connecticut
+Fremont 071 Iowa
+Benton 009 Minnesota
+Kandiyohi 067 Minnesota
+Sherman 163 Nebraska
+Pike 125 Indiana
+Cheyenne 023 Kansas
+Fillmore 045 Minnesota
+Coos 007 New Hampshire
+Yell 149 Arkansas
+Breathitt 025 Kentucky
+Walworth 127 Wisconsin
+Campbell 013 Tennessee
+Comanche 031 Oklahoma
+Champaign 019 Illinois
+Pearl River 109 Mississippi
+Augusta 015 Virginia
+Humboldt 091 Iowa
+Dillon 033 South Carolina
+Rockingham 165 Virginia
+Pipestone 117 Minnesota
+Madison 095 Indiana
+Clark 003 Nevada
+Madison 065 Idaho
+Newaygo 123 Michigan
+Page 139 Virginia
+Siskiyou 093 California
+Becker 005 Minnesota
+Clay 021 Arkansas
+Sutton 435 Texas
+Haakon 055 South Dakota
+Monroe 137 Missouri
+Washington 131 Wisconsin
+Fulton 049 Arkansas
+Montgomery 107 Indiana
+Kennebec 011 Maine
+McNairy 109 Tennessee
+Lawrence 079 Alabama
+Mineral 021 Nevada
+Lee 071 Florida
+Fulton 049 Indiana
+Mower 099 Minnesota
+Randolph 121 Arkansas
+Quitman 119 Mississippi
+La Salle 059 Louisiana
+Lincoln 103 Tennessee
+Gila 007 Arizona
+Kimble 267 Texas
+Broomfield 014 Colorado
+Pine 115 Minnesota
+Onondaga 067 New York
+Perkins 135 Nebraska
+Prairie 117 Arkansas
+Denver 031 Colorado
+Taylor 119 Wisconsin
+Carroll 015 Illinois
+St. Clair 163 Illinois
+Guayanilla 059 Puerto Rico
+Petersburg 195 Alaska
+Teton 081 Idaho
+Travis 453 Texas
+Sherburne 141 Minnesota
+Pasquotank 139 North Carolina
+Dewey 041 South Dakota
+Graham 075 North Carolina
+Knott 119 Kentucky
+Mineral 061 Montana
+Monroe 111 Ohio
+Jones 067 Mississippi
+Lucas 095 Ohio
+Carolina 031 Puerto Rico
+Prairie 079 Montana
+Dallas 113 Texas
+Indiana 063 Pennsylvania
+Harrison 067 Ohio
+Perry 127 Ohio
+Tazewell 185 Virginia
+Franklin 011 Vermont
+Piute 031 Utah
+Douglas 031 Wisconsin
+Leavenworth 103 Kansas
+Barnstable 001 Massachusetts
+Wilson 189 Tennessee
+Cuyahoga 035 Ohio
+Defiance 039 Ohio
+Delaware 041 Oklahoma
+Canadian 017 Oklahoma
+Pacific 049 Washington
+Alleghany 005 Virginia
+Madison 065 Louisiana
+Renville 129 Minnesota
+Iron 093 Missouri
+Murray 213 Georgia
+Granite 039 Montana
+Lewis 101 Tennessee
+Fulton 121 Georgia
+Hendricks 063 Indiana
+Cerro Gordo 033 Iowa
+Waupaca 135 Wisconsin
+Adams 001 Ohio
+Keya Paha 103 Nebraska
+Sheboygan 117 Wisconsin
+Venango 121 Pennsylvania
+Arthur 005 Nebraska
+Transylvania 175 North Carolina
+Whatcom 073 Washington
+Washington 087 Idaho
+Custer 017 Montana
+Monmouth 025 New Jersey
+Williamson 199 Illinois
+Wilson 493 Texas
+Macon 111 Tennessee
+Dickson 043 Tennessee
+Crawford 039 Michigan
+Sherman 181 Kansas
+McHenry 111 Illinois
+Concho 095 Texas
+Cleburne 029 Alabama
+Golden Valley 037 Montana
+Motley 345 Texas
+Outagamie 087 Wisconsin
+Elliott 063 Kentucky
+Clay 027 Alabama
+Twiggs 289 Georgia
+Marion 115 Tennessee
+Staunton 790 Virginia
+Carroll 015 Arkansas
+Quebradillas 115 Puerto Rico
+Ottawa 139 Michigan
+Hood 221 Texas
+Tehama 103 California
+Arroyo 015 Puerto Rico
+Carlisle 039 Kentucky
+Thurston 067 Washington
+Morgan 141 Missouri
+Fentress 049 Tennessee
+Garza 169 Texas
+Coleman 083 Texas
+Buchanan 019 Iowa
+Gratiot 057 Michigan
+Lee 177 Georgia
+Warren 227 Kentucky
+Jefferson 073 Alabama
+St. Louis 510 Missouri
+Colbert 033 Alabama
+Grundy 061 Tennessee
+Miller 201 Georgia
+Geary 061 Kansas
+Asotin 003 Washington
+Willacy 489 Texas
+Saline 169 Kansas
+Yellowstone 111 Montana
+Pueblo 101 Colorado
+Garrard 079 Kentucky
+Itasca 061 Minnesota
+Mason 161 Kentucky
+Henry 067 Alabama
+Bryan 029 Georgia
+Holt 087 Missouri
+Jackson 099 North Carolina
+Marin 041 California
+Fayette 067 Kentucky
+Bulloch 031 Georgia
+Niobrara 027 Wyoming
+Randolph 083 West Virginia
+Choctaw 019 Mississippi
+Hickman 081 Tennessee
+Columbiana 029 Ohio
+Cabarrus 025 North Carolina
+Hampton 049 South Carolina
+Wheeler 069 Oregon
+La Crosse 063 Wisconsin
+Coffee 031 Alabama
+Garrett 023 Maryland
+Schuyler 097 New York
+Dunn 033 Wisconsin
+White Pine 033 Nevada
+Irwin 155 Georgia
+Seward 159 Nebraska
+Lawrence 073 Pennsylvania
+Billings 007 North Dakota
+Buena Vista 530 Virginia
+Polk 143 Nebraska
+Adams 001 Nebraska
+Sumter 261 Georgia
+Iron 071 Michigan
+Real 385 Texas
+Edgefield 037 South Carolina
+Jefferson 067 Oklahoma
+Oliver 065 North Dakota
+Kane 025 Utah
+Gibson 051 Indiana
+Litchfield 005 Connecticut
+Sarasota 115 Florida
+Hanson 061 South Dakota
+Gosper 073 Nebraska
+Woodford 239 Kentucky
+Owen 119 Indiana
+Butler 031 Kentucky
+Richland 083 Louisiana
+Ward 101 North Dakota
+Wyandotte 209 Kansas
+Wilbarger 487 Texas
+Daviess 061 Missouri
+Dakota 037 Minnesota
+Campbell 005 Wyoming
+Villalba 149 Puerto Rico
+Lafayette 055 Louisiana
+McDuffie 189 Georgia
+Hitchcock 087 Nebraska
+Ceiba 037 Puerto Rico
+Garfield 023 Washington
+Magoffin 153 Kentucky
+Durham 063 North Carolina
+Kittson 069 Minnesota
+Richland 103 Wisconsin
+Buena Vista 021 Iowa
+Pembina 067 North Dakota
+Calvert 009 Maryland
+Montgomery 113 Ohio
+Clay 035 Nebraska
+Fayette 057 Alabama
+Bastrop 021 Texas
+York 133 Pennsylvania
+Cross 037 Arkansas
+Madison 151 Kentucky
+Hamilton 061 Ohio
+La Salle 283 Texas
+Gilmer 021 West Virginia
+Juneau 057 Wisconsin
+Crook 011 Wyoming
+York 031 Maine
+Saline 151 Nebraska
+Beadle 005 South Dakota
+Ida 093 Iowa
+Fulton 057 Illinois
+Genesee 037 New York
+Blount 009 Tennessee
+Chester 023 South Carolina
+Holmes 051 Mississippi
+Lyon 019 Nevada
+Colleton 029 South Carolina
+Lincoln 137 Kentucky
+Ionia 067 Michigan
+Edmonson 061 Kentucky
+Santa Fe 049 New Mexico
+Ozaukee 089 Wisconsin
+Manistee 101 Michigan
+Bath 011 Kentucky
+Dade 083 Georgia
+Kalamazoo 077 Michigan
+Thomas 275 Georgia
+Tangipahoa 105 Louisiana
+Anderson 007 South Carolina
+Chattooga 055 Georgia
+Washington 189 Illinois
+Wilkin 167 Minnesota
+Warren 171 Indiana
+Sussex 183 Virginia
+Harlan 083 Nebraska
+Carroll 033 Missouri
+McClain 087 Oklahoma
+Issaquena 055 Mississippi
+Fleming 069 Kentucky
+Churchill 001 Nevada
+Hodgeman 083 Kansas
+Roanoke 161 Virginia
+Naguabo 103 Puerto Rico
+Box Elder 003 Utah
+Edwards 137 Texas
+Randolph 135 Indiana
+Dallas 049 Iowa
+Gilpin 047 Colorado
+Thomas 171 Nebraska
+Union 039 New Jersey
+Barranquitas 019 Puerto Rico
+Crawford 023 Wisconsin
+Sabine 403 Texas
+Menominee 109 Michigan
+Finney 055 Kansas
+Naranjito 105 Puerto Rico
+Payette 075 Idaho
+Bollinger 017 Missouri
+Cayuga 011 New York
+Bedford 009 Pennsylvania
+Butler 017 Ohio
+Hidalgo 023 New Mexico
+Northumberland 133 Virginia
+Roscommon 143 Michigan
+Carter 019 Oklahoma
+Brunswick 025 Virginia
+Dodge 091 Georgia
+Dorchester 035 South Carolina
+Carter 043 Kentucky
+Iron 051 Wisconsin
+Pulaski 119 Arkansas
+Sheridan 033 Wyoming
+Emmet 047 Michigan
+Guthrie 077 Iowa
+Calhoun 025 Iowa
+Barrow 013 Georgia
+Cheshire 005 New Hampshire
+Perry 105 Arkansas
+Monroe 135 Iowa
+Aguas Buenas 007 Puerto Rico
+Howard 089 Iowa
+Vigo 167 Indiana
+Greeley 071 Kansas
+Imperial 025 California
+Keokuk 107 Iowa
+Rush 165 Kansas
+Oconee 219 Georgia
+LaPorte 091 Indiana
+Cabo Rojo 023 Puerto Rico
+Uintah 047 Utah
+Butler 013 Alabama
+Otoe 131 Nebraska
+Cleveland 045 North Carolina
+Glades 043 Florida
+Radford 750 Virginia
+Knox 095 Illinois
+Marion 097 Indiana
+Spink 115 South Dakota
+Pittsburg 121 Oklahoma
+Davis 051 Iowa
+Ohio 183 Kentucky
+Philadelphia 101 Pennsylvania
+Cache 005 Utah
+San Benito 069 California
+Rock Island 161 Illinois
+Walker 127 Alabama
+Perkins 105 South Dakota
+Monroe 099 Alabama
+Woodbury 193 Iowa
+Susquehanna 115 Pennsylvania
+Windham 025 Vermont
+Grand 019 Utah
+Jefferson 055 Wisconsin
+Beauregard 011 Louisiana
+Greene 055 Indiana
+Gilmer 123 Georgia
+Deaf Smith 117 Texas
+Comerío 045 Puerto Rico
+Grady 051 Oklahoma
+Tippecanoe 157 Indiana
+Yalobusha 161 Mississippi
+Oklahoma 109 Oklahoma
+Jasper 241 Texas
+Cameron 023 Louisiana
+Kingman 095 Kansas
+Lafourche 057 Louisiana
+Clay 027 Kansas
+Henry 089 Virginia
+Garvin 049 Oklahoma
+Saunders 155 Nebraska
+Hartley 205 Texas
+Adair 001 Kentucky
+Crawford 025 Indiana
+Claiborne 021 Mississippi
+Henderson 071 Illinois
+Camas 025 Idaho
+Juniata 067 Pennsylvania
+Monroe 087 Florida
+Ottawa 143 Kansas
+Goodhue 049 Minnesota
+Tazewell 179 Illinois
+Pottawattamie 155 Iowa
+Adams 001 North Dakota
+Stark 175 Illinois
+Stephenson 177 Illinois
+Adams 001 Indiana
+Warren 041 New Jersey
+Kern 029 California
+Russell 207 Kentucky
+Yakutat 282 Alaska
+Louisa 109 Virginia
+Essex 009 Massachusetts
+Clarion 031 Pennsylvania
+Portage 133 Ohio
+Roane 145 Tennessee
+Manassas Park 685 Virginia
+Ciales 039 Puerto Rico
+Norfolk 021 Massachusetts
+Decatur 087 Georgia
+Chattahoochee 053 Georgia
+Maricopa 013 Arizona
+Alger 003 Michigan
+Gordon 129 Georgia
+West Carroll 123 Louisiana
+Manassas 683 Virginia
+Crawford 033 Arkansas
+Grant 053 Oklahoma
+Kodiak Island 150 Alaska
+King 033 Washington
+Sussex 037 New Jersey
+Otsego 077 New York
+Ochiltree 357 Texas
+Faulk 049 South Dakota
+Albany 001 New York
+Murray 099 Oklahoma
+Ashtabula 007 Ohio
+Morgan 087 Colorado
+Meagher 059 Montana
+Cass 017 Illinois
+Beaufort 013 South Carolina
+Bayfield 007 Wisconsin
+San Bernardino 071 California
+Jefferson 051 Louisiana
+Val Verde 465 Texas
+Jasper 099 Iowa
+Dickinson 043 Michigan
+Dillingham 070 Alaska
+Wayne 305 Georgia
+Gove 063 Kansas
+Vega Baja 145 Puerto Rico
+Pleasants 073 West Virginia
+Jefferson 045 New York
+Benton 005 Washington
+Douglas 045 Kansas
+Macoupin 117 Illinois
+Wakulla 129 Florida
+Atlantic 001 New Jersey
+Harney 025 Oregon
+Butte 007 California
+San Miguel 113 Colorado
+Weakley 183 Tennessee
+Lenoir 107 North Carolina
+White 311 Georgia
+Columbus 047 North Carolina
+Lubbock 303 Texas
+Eddy 027 North Dakota
+Crawford 047 Iowa
+Hale 065 Alabama
+Lauderdale 075 Mississippi
+Randall 381 Texas
+Clarke 023 Mississippi
+San Francisco 075 California
+Fayette 041 Indiana
+Monroe 207 Georgia
+Houston 083 Tennessee
+Moore 341 Texas
+Hot Spring 059 Arkansas
+Woodford 203 Illinois
+Webster 225 Missouri
+Fayette 051 Illinois
+Forsyth 067 North Carolina
+Clermont 025 Ohio
+Columbia 013 Washington
+Mercer 167 Kentucky
+Webster 101 West Virginia
+Marion 093 Alabama
+Lincoln 015 Maine
+Highland 071 Ohio
+Donley 129 Texas
+Minnehaha 099 South Dakota
+Attala 007 Mississippi
+Dallam 111 Texas
+Elmore 039 Idaho
+Lexington 678 Virginia
+Bedford 019 Virginia
+Page 145 Iowa
+Lincoln 043 West Virginia
+Tulsa 143 Oklahoma
+Saginaw 145 Michigan
+Ogemaw 129 Michigan
+Windsor 027 Vermont
+Lincoln 041 Oregon
+Logan 141 Kentucky
+Drew 043 Arkansas
+Floyd 063 Virginia
+Clinton 027 Ohio
+Albany 001 Wyoming
+Edwards 047 Illinois
+Pierce 139 Nebraska
+Daviess 059 Kentucky
+Grundy 079 Missouri
+Teton 099 Montana
+Franklin 037 Florida
+Newport News 700 Virginia
+Jones 169 Georgia
+Macomb 099 Michigan
+Levy 075 Florida
+Monroe 171 Kentucky
+Columbia 073 Georgia
+Richmond 085 New York
+St. Charles 089 Louisiana
+Tipton 159 Indiana
+Washington 133 Florida
+Nottoway 135 Virginia
+Gates 073 North Carolina
+Vernon 123 Wisconsin
+Passaic 031 New Jersey
+Nome 180 Alaska
+Delaware 025 New York
+Douglas 055 Nebraska
+Noble 113 Indiana
+Grant 043 Louisiana
+Hansford 195 Texas
+Rosebud 087 Montana
+Luna 029 New Mexico
+Sumner 191 Kansas
+Owsley 189 Kentucky
+Cowley 035 Kansas
+Columbia 021 New York
+Washington 167 Ohio
+Cherokee 057 Georgia
+Stonewall 433 Texas
+Lampasas 281 Texas
+Norton 720 Virginia
+Washington 201 Kansas
+Loup 115 Nebraska
+Bowie 037 Texas
+Midland 329 Texas
+Tompkins 109 New York
+Conejos 021 Colorado
+Jay 075 Indiana
+Murray 101 Minnesota
+Alameda 001 California
+DeKalb 041 Tennessee
+Love 085 Oklahoma
+DuPage 043 Illinois
+Fannin 147 Texas
+Jefferson 077 Indiana
+Umatilla 059 Oregon
+Yates 123 New York
+Meade 119 Kansas
+Creek 037 Oklahoma
+Caribou 029 Idaho
+Polk 095 Wisconsin
+Comal 091 Texas
+Mercer 107 Ohio
+Neosho 133 Kansas
+Horry 051 South Carolina
+Berkeley 015 South Carolina
+Douglas 041 Illinois
+Jackson 057 Colorado
+Humphreys 085 Tennessee
+Dyer 045 Tennessee
+Medina 103 Ohio
+Todd 121 South Dakota
+Kittitas 037 Washington
+Santa Barbara 083 California
+St. Lucie 111 Florida
+Stephens 429 Texas
+Grayson 181 Texas
+Scott 169 Virginia
+Valley 085 Idaho
+Sully 119 South Dakota
+Saluda 081 South Carolina
+Jackson 071 South Dakota
+Allen 003 Ohio
+Screven 251 Georgia
+Suffolk 103 New York
+Stone 209 Missouri
+Lake 095 Tennessee
+Lucas 117 Iowa
+Knox 093 Tennessee
+Essex 057 Virginia
+Fort Bend 157 Texas
+Aransas 007 Texas
+Shannon 203 Missouri
+Morgan 029 Utah
+Reagan 383 Texas
+Limestone 083 Alabama
+Phillips 095 Colorado
+Pontotoc 115 Mississippi
+Patrick 141 Virginia
+Richland 159 Illinois
+Wheatland 107 Montana
+Buchanan 021 Missouri
+Noxubee 103 Mississippi
+Harper 077 Kansas
+St. Johns 109 Florida
+Franklin 069 Iowa
+Traill 097 North Dakota
+Pike 109 Arkansas
+Santa Cruz 087 California
+Harrison 061 Indiana
+Cambria 021 Pennsylvania
+Amherst 009 Virginia
+Decatur 039 Tennessee
+Mellette 095 South Dakota
+Renville 075 North Dakota
+Powhatan 145 Virginia
+Montgomery 209 Georgia
+St. Clair 115 Alabama
+Idaho 049 Idaho
+Northwest Arctic 188 Alaska
+Jefferson 031 Washington
+Pottawatomie 125 Oklahoma
+Douglas 043 South Dakota
+Hancock 009 Maine
+Kimball 105 Nebraska
+Montrose 085 Colorado
+Lincoln 081 Minnesota
+Sumner 165 Tennessee
+Josephine 033 Oregon
+Gloucester 073 Virginia
+Pike 103 Pennsylvania
+Bourbon 017 Kentucky
+Douglas 067 Missouri
+Martin 101 Indiana
+Crockett 033 Tennessee
+Barton 011 Missouri
+Chemung 015 New York
+Stafford 179 Virginia
+Clay 021 Indiana
+Marshall 099 Indiana
+Wise 497 Texas
+Pulaski 199 Kentucky
+Hall 079 Nebraska
+Powell 077 Montana
+Kiowa 097 Kansas
+Bay 017 Michigan
+Phillips 147 Kansas
+Carroll 027 Iowa
+Gloucester 015 New Jersey
+Barton 009 Kansas
+Ashland 005 Ohio
+Multnomah 051 Oregon
+Dooly 093 Georgia
+Sheridan 161 Nebraska
+Burleigh 015 North Dakota
+Butler 023 Nebraska
+Torrance 057 New Mexico
+Harrison 203 Texas
+Washington 229 Kentucky
+Orange 117 Indiana
+Bergen 003 New Jersey
+Cumberland 011 New Jersey
+St. Mary's 037 Maryland
+Adams 001 Wisconsin
+Mercer 021 New Jersey
+Pemiscot 155 Missouri
+Essex 009 Vermont
+Harding 063 South Dakota
+Spotsylvania 177 Virginia
+Delta 029 Colorado
+Columbia 009 Oregon
+Russell 113 Alabama
+Richmond 245 Georgia
+Sanders 089 Montana
+Lyon 111 Kansas
+Winchester 840 Virginia
+Clarke 039 Iowa
+Sitka 220 Alaska
+Jack 237 Texas
+Yakima 077 Washington
+Rains 379 Texas
+Todd 219 Kentucky
+Larue 123 Kentucky
+Mayes 097 Oklahoma
+Marion 083 Florida
+Robeson 155 North Carolina
+Surry 181 Virginia
+Dickenson 051 Virginia
+Frontier 063 Nebraska
+Dawson 085 Georgia
+Chase 029 Nebraska
+Cortland 023 New York
+Van Buren 141 Arkansas
+Kent 001 Delaware
+Sullivan 019 New Hampshire
+Red Willow 145 Nebraska
+Scotts Bluff 157 Nebraska
+Blaine 009 Nebraska
+Stanton 167 Nebraska
+Will 197 Illinois
+Newton 101 Arkansas
+Luquillo 089 Puerto Rico
+Charlevoix 029 Michigan
+Crawford 037 Kansas
+Lincoln 083 South Dakota
+Wirt 105 West Virginia
+Valley 175 Nebraska
+Greene 073 Iowa
+Bertie 015 North Carolina
+Manatee 081 Florida
+Christian 021 Illinois
+Rice 131 Minnesota
+Dallas 047 Alabama
+Kane 089 Illinois
+Grayson 085 Kentucky
+Iron 021 Utah
+Sullivan 153 Indiana
+Ramsey 071 North Dakota
+Fisher 151 Texas
+Chenango 017 New York
+Doniphan 043 Kansas
+Wrangell 275 Alaska
+Williamsburg 830 Virginia
+Harrison 085 Iowa
+Terrell 273 Georgia
+Elk 047 Pennsylvania
+Miner 097 South Dakota
+Linn 113 Iowa
+Montgomery 123 North Carolina
+Pawnee 133 Nebraska
+Miami-Dade 086 Florida
+Hill 217 Texas
+Malheur 045 Oregon
+Delaware 035 Indiana
+Guadalupe 187 Texas
+Wagoner 145 Oklahoma
+Baldwin 003 Alabama
+Davie 059 North Carolina
+Carroll 035 Virginia
+Allegany 003 New York
+Kearny 093 Kansas
+Smyth 173 Virginia
+Baltimore 005 Maryland
+Jackson 239 Texas
+Wetzel 103 West Virginia
+Morris 343 Texas
+Mathews 115 Virginia
+Gaines 165 Texas
+Liberty 291 Texas
+Seneca 147 Ohio
+Midland 111 Michigan
+Gregg 183 Texas
+Volusia 127 Florida
+Claiborne 027 Louisiana
+Waukesha 133 Wisconsin
+Sioux 165 Nebraska
+Johnson 071 Arkansas
+Bear Lake 007 Idaho
+Mercer 131 Illinois
+Gulf 045 Florida
+Paulding 223 Georgia
+Watonwan 165 Minnesota
+Edgar 045 Illinois
+Morgan 211 Georgia
+Bent 011 Colorado
+Echols 101 Georgia
+Montgomery 339 Texas
+Kent 081 Michigan
+Lewis 111 Missouri
+Abbeville 001 South Carolina
+Anchorage 020 Alaska
+Ontonagon 131 Michigan
+Deuel 049 Nebraska
+Delaware 041 Ohio
+Marion 091 Mississippi
+DeSoto 033 Mississippi
+Holmes 075 Ohio
+Martin 159 Kentucky
+Cameron 061 Texas
+Denali 068 Alaska
+Bourbon 011 Kansas
+Wheeler 309 Georgia
+Yuma 125 Colorado
+Henderson 101 Kentucky
+Stark 089 North Dakota
+Howard 061 Arkansas
+Montmorency 119 Michigan
+Bosque 035 Texas
+Franklin 055 Illinois
+Mercer 085 Pennsylvania
+Sedgwick 115 Colorado
+Irion 235 Texas
+Lake 089 Indiana
+Putnam 079 New York
+Perry 157 Missouri
+Gogebic 053 Michigan
+Schleicher 413 Texas
+Somerset 111 Pennsylvania
+Franklin 047 Indiana
+Jenkins 165 Georgia
+Upshur 097 West Virginia
+Lebanon 075 Pennsylvania
+Taylor 269 Georgia
+Hughes 063 Oklahoma
+Culberson 109 Texas
+Lawrence 077 Mississippi
+Wyandot 175 Ohio
+Evans 109 Georgia
+Dinwiddie 053 Virginia
+Whitfield 313 Georgia
+Perquimans 143 North Carolina
+Franklin 037 Mississippi
+Trego 195 Kansas
+Allen 003 Louisiana
+Jackson 067 Arkansas
+Lawrence 087 Ohio
+Bossier 015 Louisiana
+Pierce 069 North Dakota
+Newton 351 Texas
+Florence 037 Wisconsin
+Fajardo 053 Puerto Rico
+Baldwin 009 Georgia
+Brown 015 Ohio
+Hinsdale 053 Colorado
+Sumter 085 South Carolina
+Juana Díaz 075 Puerto Rico
+Sierra 091 California
+Jefferson 043 Montana
+Bingham 011 Idaho
+Rice 159 Kansas
+Dewey 043 Oklahoma
+Calhoun 013 Florida
+Lee 081 Mississippi
+Hickory 085 Missouri
+Nassau 089 Florida
+Trigg 221 Kentucky
+Iowa 049 Wisconsin
+San Juan 111 Colorado
+Wright 229 Missouri
+Lamar 075 Alabama
+Boone 007 Illinois
+Wilkinson 157 Mississippi
+Berkshire 003 Massachusetts
+Baker 003 Florida
+McCreary 147 Kentucky
+Harlan 095 Kentucky
+Portsmouth 740 Virginia
+Juneau 110 Alaska
+Tioga 117 Pennsylvania
+Norfolk 710 Virginia
+Benton 007 Indiana
+Lee 129 Kentucky
+McKenzie 053 North Dakota
+Sevier 155 Tennessee
+Washington 121 Colorado
+Trumbull 155 Ohio
+Ramsey 123 Minnesota
+Bristol 001 Rhode Island
+Thayer 169 Nebraska
+Clark 025 Kansas
+Cottle 101 Texas
+Lincoln 017 Nevada
+Latah 057 Idaho
+Bradley 011 Tennessee
+Moore 125 North Carolina
+LaMoure 045 North Dakota
+Vermilion 183 Illinois
+Hutchinson 067 South Dakota
+Huron 077 Ohio
+Jayuya 073 Puerto Rico
+Dane 025 Wisconsin
+Collier 021 Florida
+Burke 023 North Carolina
+Jasper 061 Mississippi
+Cleburne 023 Arkansas
+Nacogdoches 347 Texas
+Somerset 039 Maryland
+Clark 033 Idaho
+Lowndes 085 Alabama
+McCormick 065 South Carolina
+Monroe 115 Michigan
+Hamilton 065 Illinois
+McDowell 047 West Virginia
+Clay 025 Mississippi
+Craighead 031 Arkansas
+Greene 063 Alabama
+Charlottesville 540 Virginia
+Charlotte 015 Florida
+Blaine 013 Idaho
+Grant 023 Oregon
+Iredell 097 North Carolina
+Bradford 007 Florida
+Monroe 063 West Virginia
+Marquette 077 Wisconsin
+Banks 011 Georgia
+Albemarle 003 Virginia
+Fremont 043 Idaho
+McLean 113 Illinois
+Tioga 107 New York
+Currituck 053 North Carolina
+Sarpy 153 Nebraska
+Borden 033 Texas
+Union 111 Louisiana
+Rockdale 247 Georgia
+Lyon 143 Kentucky
+Osceola 143 Iowa
+Franklin 049 Ohio
+Lewis 041 Washington
+Kit Carson 063 Colorado
+Metcalfe 169 Kentucky
+Wood 141 Wisconsin
+Broome 007 New York
+Armstrong 011 Texas
+Copiah 029 Mississippi
+Adams 003 Iowa
+Pend Oreille 051 Washington
+Summit 043 Utah
+Lawrence 127 Kentucky
+Kossuth 109 Iowa
+Benton 015 Missouri
+Carter 011 Montana
+Harford 025 Maryland
+Henry 079 Tennessee
+Le Sueur 079 Minnesota
+Madison 079 Florida
+Cape May 009 New Jersey
+Cedar 039 Missouri
+Oceana 127 Michigan
+Williamson 491 Texas
+Brown 013 Indiana
+Garland 051 Arkansas
+Clackamas 005 Oregon
+Etowah 055 Alabama
+La Paz 012 Arizona
+Greene 039 New York
+Jefferson 095 Nebraska
+Swift 151 Minnesota
+Yellow Medicine 173 Minnesota
+Hertford 091 North Carolina
+Dickinson 041 Kansas
+Whitley 183 Indiana
+St. Mary 101 Louisiana
+Norton 137 Kansas
+Lane 101 Kansas
+White 181 Indiana
+Marshall 095 Alabama
+Stephens 257 Georgia
+Treutlen 283 Georgia
+Danville 590 Virginia
+Edgecombe 065 North Carolina
+Dallas 059 Missouri
+Tift 277 Georgia
+St. Joseph 149 Michigan
+Ada 001 Idaho
+Greeley 077 Nebraska
+Hillsborough 011 New Hampshire
+Sanilac 151 Michigan
+Rush 139 Indiana
+Aurora 003 South Dakota
+Rockcastle 203 Kentucky
+Johnston 101 North Carolina
+Botetourt 023 Virginia
+Jefferson 087 Kansas
+Rincón 117 Puerto Rico
+Wasatch 051 Utah
+Clark 023 Ohio
+Gaston 071 North Carolina
+Hancock 063 Ohio
+Winnebago 201 Illinois
+Miami 121 Kansas
+Barbour 001 West Virginia
+Platte 141 Nebraska
+Newton 111 Indiana
+Switzerland 155 Indiana
+Talbot 041 Maryland
+Sandusky 143 Ohio
+Hillsborough 057 Florida
+Gallatin 077 Kentucky
+Culebra 049 Puerto Rico
+Jackson 095 Missouri
+Faribault 043 Minnesota
+Columbia 037 Pennsylvania
+Livingston 093 Michigan
+McCracken 145 Kentucky
+Stephens 137 Oklahoma
+Young 503 Texas
+Fairfield 001 Connecticut
+Holt 089 Nebraska
+Martin 085 Florida
+Clinton 027 Illinois
+Berrien 019 Georgia
+Little River 081 Arkansas
+Huntingdon 061 Pennsylvania
+Bell 027 Texas
+Lewis 049 New York
+Zapata 505 Texas
+Starr 427 Texas
+Chester 023 Tennessee
+Greenup 089 Kentucky
+Lake 033 California
+Grimes 185 Texas
+Columbia 023 Florida
+San Patricio 409 Texas
+Kerr 265 Texas
+Lake of the Woods 077 Minnesota
+Gadsden 039 Florida
+Franklin 007 Maine
+Henry 069 Ohio
+Atoka 005 Oklahoma
+Sevier 041 Utah
+Hamilton 041 New York
+Kauai 007 Hawaii
+Elbert 039 Colorado
+Caddo 017 Louisiana
+Rockwall 397 Texas
+Dakota 043 Nebraska
+Ringgold 159 Iowa
+Randolph 151 North Carolina
+Prince George's 033 Maryland
+St. Martin 099 Louisiana
+Bradford 015 Pennsylvania
+Pitkin 097 Colorado
+Valdez-Cordova 261 Alaska
+Niagara 063 New York
+Ray 177 Missouri
+Huerfano 055 Colorado
+Gunnison 051 Colorado
+Elmore 051 Alabama
+Shelby 165 Iowa
+Costilla 023 Colorado
+Lamar 277 Texas
+Steuben 151 Indiana
+Baker 001 Oregon
+Tooele 045 Utah
+Beaver 001 Utah
+Harrison 097 Kentucky
+Richmond 159 Virginia
+Wahkiakum 069 Washington
+Rhea 143 Tennessee
+Johnson 167 Georgia
+Wilcox 315 Georgia
+Chisago 025 Minnesota
+Redwood 127 Minnesota
+Walton 297 Georgia
+Peñuelas 111 Puerto Rico
+Hays 209 Texas
+Marquette 103 Michigan
+Coos 011 Oregon
+Amite 005 Mississippi
+Chatham 051 Georgia
+White 145 Arkansas
+Pawnee 117 Oklahoma
+Auglaize 011 Ohio
+Unicoi 171 Tennessee
+Emmons 029 North Dakota
+Jefferson 059 Colorado
+Rutherford 161 North Carolina
+Wallowa 063 Oregon
+Scott 171 Kansas
+Mille Lacs 095 Minnesota
+Greene 061 Illinois
+Okfuskee 107 Oklahoma
+Polk 053 Oregon
+Dubois 037 Indiana
+Haralson 143 Georgia
+Ouray 091 Colorado
+Kenosha 059 Wisconsin
+Charlton 049 Georgia
+Doddridge 017 West Virginia
+Knox 103 Missouri
+Cheyenne 033 Nebraska
+Chariton 041 Missouri
+Okmulgee 111 Oklahoma
+Neshoba 099 Mississippi
+West Baton Rouge 121 Louisiana
+Liberty 051 Montana
+Perry 193 Kentucky
+Clay 047 Missouri
+Añasco 011 Puerto Rico
+Taylor 173 Iowa
+Washington 221 Missouri
+Wood 173 Ohio
+Moca 099 Puerto Rico
+Randolph 157 Illinois
+Union 173 Tennessee
+Las Animas 071 Colorado
+Osage 113 Oklahoma
+Humboldt 023 California
+Waseca 161 Minnesota
+Freestone 161 Texas
+Mono 051 California
+Eagle 037 Colorado
+De Witt 039 Illinois
+Caldwell 025 Missouri
+Clark 023 Illinois
+Menard 327 Texas
+Fayette 051 Pennsylvania
+Lowndes 087 Mississippi
+Stevens 189 Kansas
+Wayne 177 Indiana
+Berks 011 Pennsylvania
+Belknap 001 New Hampshire
+Manitowoc 071 Wisconsin
+Titus 449 Texas
+Greer 055 Oklahoma
+Mississippi 093 Arkansas
+Camden 007 New Jersey
+Hopkins 107 Kentucky
+Warrick 173 Indiana
+Clear Creek 019 Colorado
+Crawford 033 Illinois
+Hudspeth 229 Texas
+St. Francois 187 Missouri
+Appling 001 Georgia
+Greene 079 North Carolina
+Lincoln 113 Missouri
+Jennings 079 Indiana
+Tallapoosa 123 Alabama
+Blue Earth 013 Minnesota
+Broadwater 007 Montana
+Washington 147 Oklahoma
+Queens 081 New York
+Banner 007 Nebraska
+Giles 055 Tennessee
+Gray 069 Kansas
+Sharp 135 Arkansas
+Beaver 007 Oklahoma
+Burnet 053 Texas
+Jackson 049 Louisiana
+Livingston 139 Kentucky
+St. Landry 097 Louisiana
+Worth 195 Iowa
+Colorado 089 Texas
+Van Buren 177 Iowa
+Orleans 073 New York
+Somerset 025 Maine
+Brown 009 Illinois
+Ford 057 Kansas
+Morgan 065 West Virginia
+Putnam 171 Missouri
+Dale 045 Alabama
+Hancock 091 Kentucky
+Calaveras 009 California
+Searcy 129 Arkansas
+Itawamba 057 Mississippi
+Routt 107 Colorado
+Jackson 065 Oklahoma
+Adjuntas 001 Puerto Rico
+Marion 067 South Carolina
+Vermillion 165 Indiana
+Ector 135 Texas
+Craven 049 North Carolina
+Las Marías 083 Puerto Rico
+Camden 029 North Carolina
+Atchison 005 Kansas
+Carter 019 Tennessee
+Hickman 105 Kentucky
+Blanco 031 Texas
+Tuscaloosa 125 Alabama
+Pittsylvania 143 Virginia
+Marshall 127 Iowa
+Marion 315 Texas
+El Dorado 017 California
+Weston 045 Wyoming
+Sublette 035 Wyoming
+Forsyth 117 Georgia
+Grundy 063 Illinois
+Walker 295 Georgia
+Jasper 097 Missouri
+Anderson 001 Tennessee
+Thomas 193 Kansas
+Morehouse 067 Louisiana
+King George 099 Virginia
+Patillas 109 Puerto Rico
+Union 159 Ohio
+Clark 049 Kentucky
+Yamhill 071 Oregon
+Mahoning 099 Ohio
+Adams 003 Idaho
+Morrison 097 Minnesota
+Boyle 021 Kentucky
+Dawson 021 Montana
+George 039 Mississippi
+Antrim 009 Michigan
+Hamilton 065 Tennessee
+Wade Hampton 270 Alaska
+Warren 113 New York
+Scioto 145 Ohio
+Boone 009 Arkansas
+Divide 023 North Dakota
+Coke 081 Texas
+Sioux 085 North Dakota
+Carbon 025 Pennsylvania
+Hoonah-Angoon 105 Alaska
+Grand Forks 035 North Dakota
+Clinch 065 Georgia
+Lake 075 Minnesota
+O'Brien 141 Iowa
+Vernon 217 Missouri
+Pocahontas 151 Iowa
+Westmoreland 193 Virginia
+Hall 191 Texas
+Sampson 163 North Carolina
+Matagorda 321 Texas
+Langlade 067 Wisconsin
+Río Grande 119 Puerto Rico
+Franklin 061 Nebraska
+Tom Green 451 Texas
+Ware 299 Georgia
+Bexar 029 Texas
+Red River 081 Louisiana
+Guilford 081 North Carolina
+Cass 017 Indiana
+Terry 445 Texas
+Forest 041 Wisconsin
+Audrain 007 Missouri
+Centre 027 Pennsylvania
+Union 139 Arkansas
+Ashland 003 Wisconsin
+Harvey 079 Kansas
+Guernsey 059 Ohio
+Lawrence 081 South Dakota
+Hernando 053 Florida
+Jefferson 065 Florida
+Logan 083 Oklahoma
+Lumpkin 187 Georgia
+Upson 293 Georgia
+Boone 011 Nebraska
+Nuckolls 129 Nebraska
+Dent 065 Missouri
+Autauga 001 Alabama
+Pitt 147 North Carolina
+Petersburg 730 Virginia
+Napa 055 California
+Conway 029 Arkansas
+Floyd 067 Iowa
+Brown 015 Minnesota
+Perry 135 Tennessee
+Sabine 085 Louisiana
+Alpena 007 Michigan
+Morton 129 Kansas
+Richland 139 Ohio
+Dodge 039 Minnesota
+Roosevelt 041 New Mexico
+Mahnomen 087 Minnesota
+Navarro 349 Texas
+Armstrong 005 Pennsylvania
+Carroll 019 Ohio
+Marshall 091 South Dakota
+Coweta 077 Georgia
+Northampton 131 Virginia
+Wapello 179 Iowa
+Clinton 019 New York
+Taylor 123 Florida
+Northampton 095 Pennsylvania
+Crittenden 055 Kentucky
+Clay 015 West Virginia
+Gibson 053 Tennessee
+Lemhi 059 Idaho
+Leake 079 Mississippi
+Haskell 081 Kansas
+Perry 111 Mississippi
+Cumberland 005 Maine
+Gillespie 171 Texas
+Jones 103 North Carolina
+Waldo 027 Maine
+Candler 043 Georgia
+Fulton 035 New York
+Angelina 005 Texas
+Montgomery 125 Tennessee
+Twin Falls 083 Idaho
+Scotland 165 North Carolina
+Boundary 021 Idaho
+Orange 059 California
+Hunt 231 Texas
+Grand Traverse 055 Michigan
+Clay 043 North Carolina
+Madison 087 Arkansas
+DeKalb 089 Georgia
+Marion 089 Arkansas
+Whitman 075 Washington
+Yancey 199 North Carolina
+Blount 009 Alabama
+Carroll 017 Tennessee
+Polk 167 Missouri
+Garfield 047 Oklahoma
+Clarke 043 Virginia
+Ouachita 073 Louisiana
+Hillsdale 059 Michigan
+Fannin 111 Georgia
+Gallia 053 Ohio
+Roger Mills 129 Oklahoma
+Bowman 011 North Dakota
+Franklin 033 New York
+Nodaway 147 Missouri
+Bandera 019 Texas
+Colfax 037 Nebraska
+Peoria 143 Illinois
+Dawson 115 Texas
+Pecos 371 Texas
+Lavaca 285 Texas
+Addison 001 Vermont
+Livingston 051 New York
+Kent 003 Rhode Island
+Calhoun 013 Illinois
+Saline 195 Missouri
+Coryell 099 Texas
+Upton 461 Texas
+Mariposa 043 California
+Montgomery 091 Pennsylvania
+Republic 157 Kansas
+Pettis 159 Missouri
+Davidson 037 Tennessee
+Ontario 069 New York
+Wyoming 131 Pennsylvania
+Stearns 145 Minnesota
+Cleveland 025 Arkansas
+Blaine 011 Oklahoma
+Desha 041 Arkansas
+Guaynabo 061 Puerto Rico
+Livingston 105 Illinois
+Meigs 105 Ohio
+Meeker 093 Minnesota
+Wayne 179 Nebraska
+Custer 033 South Dakota
+Carroll 045 Georgia
+Letcher 133 Kentucky
+Carbon 009 Montana
+Roberts 393 Texas
+Hopkins 223 Texas
+East Baton Rouge 033 Louisiana
+Branch 023 Michigan
+Montgomery 125 Kansas
+Davis 011 Utah
+San Saba 411 Texas
+Reeves 389 Texas
+Juncos 077 Puerto Rico
+Crosby 107 Texas
+Hot Springs 017 Wyoming
+Wayne 223 Missouri
+Los Angeles 037 California
+Marion 101 Ohio
+Crisp 081 Georgia
+Sangamon 167 Illinois
+Covington 580 Virginia
+Pawnee 145 Kansas
+Wicomico 045 Maryland
+Virginia Beach 810 Virginia
+Vance 181 North Carolina
+Baxter 005 Arkansas
+Newberry 071 South Carolina
+Mingo 059 West Virginia
+Coconino 005 Arizona
+McCook 087 South Dakota
+Hocking 073 Ohio
+Treasure 103 Montana
+Green 045 Wisconsin
+Solano 095 California
+Clearfield 033 Pennsylvania
+Vieques 147 Puerto Rico
+Crawford 039 Pennsylvania
+Polk 113 Arkansas
+Schley 249 Georgia
+Butte 023 Idaho
+Dodge 027 Wisconsin
+Middlesex 119 Virginia
+Brazoria 039 Texas
+Wyoming 109 West Virginia
+Anderson 001 Texas
+Lancaster 057 South Carolina
+Johnson 081 Indiana
+Kendall 259 Texas
+Atkinson 003 Georgia
+Cattaraugus 009 New York
+Greenville 045 South Carolina
+Medina 325 Texas
+Arkansas 001 Arkansas
+Buffalo 011 Wisconsin
+Clark 011 Washington
+Franklin 041 Idaho
+Brown 009 Wisconsin
+Hill 041 Montana
+Nicholas 067 West Virginia
+Oswego 075 New York
+Washington 129 Alabama
+Robertson 201 Kentucky
+Muskegon 121 Michigan
+Golden Valley 033 North Dakota
+Kearney 099 Nebraska
+Early 099 Georgia
+DeKalb 063 Missouri
+Plaquemines 075 Louisiana
+Meade 093 South Dakota
+Union 061 Oregon
+Douglas 097 Georgia
+Cass 027 Michigan
+Spencer 147 Indiana
+Charles Mix 023 South Dakota
+Yavapai 025 Arizona
+Shawano 115 Wisconsin
+Mendocino 045 California
+Lorain 093 Ohio
+Cumberland 049 Virginia
+Bullock 011 Alabama
+Montague 337 Texas
+Hughes 065 South Dakota
+Warren 181 Iowa
+Henderson 089 North Carolina
+Henry 151 Georgia
+Cloud 029 Kansas
+Park 029 Wyoming
+Butte 019 South Dakota
+Franklin 159 Texas
+Jefferson 163 Georgia
+Henderson 213 Texas
+Shiawassee 155 Michigan
+Boulder 013 Colorado
+Jerome 053 Idaho
+Oconto 083 Wisconsin
+Liberty 077 Florida
+Loíza 087 Puerto Rico
+Worth 321 Georgia
+Hardin 069 Illinois
+Floyd 071 Kentucky
+Maverick 323 Texas
+Ben Hill 017 Georgia
+Pike 149 Illinois
+Aleutians West 016 Alaska
+Curry 015 Oregon
+Chambers 017 Alabama
+Glenn 021 California
+Geauga 055 Ohio
+Preble 135 Ohio
+Fond du Lac 039 Wisconsin
+Falls Church 610 Virginia
+Nowata 105 Oklahoma
+Wayne 231 Kentucky
+Calloway 035 Kentucky
+Henry 087 Iowa
+Independence 063 Arkansas
+Valencia 061 New Mexico
+McDonald 119 Missouri
+Moore 127 Tennessee
+Richland 079 South Carolina
+Kingsbury 077 South Dakota
+Johnson 097 Nebraska
+Carbon 007 Utah
+Cobb 067 Georgia
+Jeff Davis 161 Georgia
+Grant 051 Minnesota
+Rock 149 Nebraska
+Barren 009 Kentucky
+Sanborn 111 South Dakota
+Skagit 057 Washington
+Carroll 041 Kentucky
+Porter 127 Indiana
+Fayette 113 Georgia
+Lewis 061 Idaho
+Elko 007 Nevada
+Assumption 007 Louisiana
+Clinton 049 Missouri
+Cherokee 019 Alabama
+McPherson 117 Nebraska
+Aleutians East 013 Alaska
+Gasconade 073 Missouri
+Calhoun 013 West Virginia
+Tyrrell 177 North Carolina
+Anderson 003 Kansas
+Contra Costa 013 California
+Park 067 Montana
+Hamilton 057 Indiana
+Leelanau 089 Michigan
+Comanche 033 Kansas
+Ascension 005 Louisiana
+Troup 285 Georgia
+Avery 011 North Carolina
+Osceola 097 Florida
+St. James 093 Louisiana
+Chickasaw 037 Iowa
+Mohave 015 Arizona
+Laclede 105 Missouri
+Nicholas 181 Kentucky
+Karnes 255 Texas
+Union 059 New Mexico
+Prentiss 117 Mississippi
+Wythe 197 Virginia
+Amador 005 California
+Grant 025 Washington
+Montgomery 057 New York
+Roane 087 West Virginia
+Custer 027 Colorado
+Pickens 227 Georgia
+Morris 127 Kansas
+Phillips 071 Montana
+Lake and Peninsula 164 Alaska
+Wayne 163 Michigan
+Riley 161 Kansas
+Worth 227 Missouri
+Ohio 115 Indiana
+Seneca 099 New York
+Boone 015 Kentucky
+Lake 069 Florida
+Richardson 147 Nebraska
+Lander 015 Nevada
+Yoakum 501 Texas
+Otero 089 Colorado
+Jeff Davis 243 Texas
+New Madrid 143 Missouri
+Mercer 057 North Dakota
+Cherokee 073 Texas
+Cass 021 Minnesota
+Marshall 095 Oklahoma
+Berrien 021 Michigan
+Stoddard 207 Missouri
+San Jacinto 407 Texas
+Tate 137 Mississippi
+Mitchell 205 Georgia
+Winston 159 Mississippi
+Presidio 377 Texas
+Brooke 009 West Virginia
+Stevens 149 Minnesota
+Floyd 115 Georgia
+Union 145 Mississippi
+Marion 047 Oregon
+Turner 125 South Dakota
+Clarke 025 Alabama
+San Luis Obispo 079 California
+Eastland 133 Texas
+St. Louis 189 Missouri
+Franklin 051 Tennessee
+Genesee 049 Michigan
+Greene 077 Missouri
+Tipton 167 Tennessee
+Plymouth 149 Iowa
+Isanti 059 Minnesota
+Jefferson Davis 053 Louisiana
+Washington 191 Virginia
+Jackson 071 Alabama
+Hardeman 197 Texas
+Flagler 035 Florida
+Cumberland 041 Pennsylvania
+Cuming 039 Nebraska
+Cass 025 Nebraska
+Cascade 013 Montana
+Macon 087 Alabama
+Newport 005 Rhode Island
+Yolo 113 California
+Coahoma 027 Mississippi
+Bibb 007 Alabama
+Kanawha 039 West Virginia
+Monroe 095 Mississippi
+Harding 021 New Mexico
+St. Francis 123 Arkansas
+Kenton 117 Kentucky
+Steele 091 North Dakota
+San Juan 045 New Mexico
+Laurel 125 Kentucky
+Wheeler 183 Nebraska
+Boone 019 Missouri
+McCone 055 Montana
+St. Clair 147 Michigan
+Palo Alto 147 Iowa
+Orange 137 Virginia
+Franklin 055 Pennsylvania
+Morris 027 New Jersey
+Sac 161 Iowa
+Saline 165 Illinois
+Andrews 003 Texas
+Clark 019 Indiana
+Lane 039 Oregon
+Lee 105 North Carolina
+Taylor 091 West Virginia
+Wells 103 North Dakota
+McLean 149 Kentucky
+Utah 049 Utah
+Hamblen 063 Tennessee
+Vinton 163 Ohio
+Morgan 109 Indiana
+Clinton 023 Indiana
+Cheboygan 031 Michigan
+Austin 015 Texas
+Southampton 175 Virginia
+Guadalupe 019 New Mexico
+Andrew 003 Missouri
+Hinds 049 Mississippi
+Bayamón 021 Puerto Rico
+Lowndes 185 Georgia
+Greenbrier 025 West Virginia
+Woodward 153 Oklahoma
+Putnam 137 Ohio
+Toole 101 Montana
+Douglas 041 Minnesota
+Poinsett 111 Arkansas
+Westmoreland 129 Pennsylvania
+Deschutes 017 Oregon
+Lincoln 027 New Mexico
+Big Horn 003 Wyoming
+Anne Arundel 003 Maryland
+Stafford 185 Kansas
+Lee 077 Arkansas
+Custer 037 Idaho
+Shelby 211 Kentucky
+Griggs 039 North Dakota
+Vega Alta 143 Puerto Rico
+Broward 011 Florida
+Fayette 149 Texas
+Morgan 103 Alabama
+Carson 065 Texas
+Olmsted 109 Minnesota
+Tunica 143 Mississippi
+Collin 085 Texas
+Mahaska 123 Iowa
+Monroe 133 Illinois
+Stutsman 093 North Dakota
+Sumter 119 Florida
+Franklin 047 Arkansas
+Catron 003 New Mexico
+Marion 115 Kansas
+Trujillo Alto 139 Puerto Rico
+Bristol 520 Virginia
+Cimarron 025 Oklahoma
+Clearwater 029 Minnesota
+Dougherty 095 Georgia
+Lewis 041 West Virginia
+Texas 139 Oklahoma
+Northampton 131 North Carolina
+Oldham 359 Texas
+Sierra 051 New Mexico
+Trinity 455 Texas
+De Soto 031 Louisiana
+Lenawee 091 Michigan
+Harrison 033 West Virginia
+Taylor 217 Kentucky
+Caldwell 033 Kentucky
+Toa Baja 137 Puerto Rico
+Saratoga 091 New York
+Howard 227 Texas
+Harnett 085 North Carolina
+Lake 047 Montana
+Hardin 199 Texas
+Lyon 083 Minnesota
+Caldwell 021 Louisiana
+Colquitt 071 Georgia
+DeKalb 033 Indiana
+San Miguel 047 New Mexico
+Washington 043 Maryland
+Nelson 125 Virginia
+Cheyenne 017 Colorado
+Okeechobee 093 Florida
+Fall River 047 South Dakota
+McIntosh 051 North Dakota
+Bates 013 Missouri
+Rockingham 157 North Carolina
+Grady 131 Georgia
+Greenwood 073 Kansas
+Greene 057 Ohio
+Robertson 147 Tennessee
+Mineral 079 Colorado
+Jasper 053 South Carolina
+Bristol 005 Massachusetts
+York 185 Nebraska
+Tattnall 267 Georgia
+Logan 091 Ohio
+Parker 367 Texas
+Ocean 029 New Jersey
+Aiken 003 South Carolina
+Webb 479 Texas
+Milwaukee 079 Wisconsin
+Choctaw 023 Oklahoma
+Oscoda 135 Michigan
+McCulloch 307 Texas
+Wallace 199 Kansas
+Wabash 169 Indiana
+Miami 109 Ohio
+Darke 037 Ohio
+Mineral 057 West Virginia
+Harmon 057 Oklahoma
+Warren 185 North Carolina
+Rolette 079 North Dakota
+Butler 019 Pennsylvania
+Pinellas 103 Florida
+Jackson 087 Tennessee
+Brunswick 019 North Carolina
+Whiteside 195 Illinois
+Ellsworth 053 Kansas
+Callahan 059 Texas
+Elk 049 Kansas
+Crook 013 Oregon
+Wayne 169 Ohio
+Oktibbeha 105 Mississippi
+Tripp 123 South Dakota
+Musselshell 065 Montana
+Cherokee 039 North Carolina
+Rio Blanco 103 Colorado
+Lee 287 Texas
+Lexington 063 South Carolina
+Day 037 South Dakota
+Jackson 053 Wisconsin
+Union 127 South Dakota
+Grant 017 New Mexico
+Taney 213 Missouri
+Westchester 119 New York
+Clark 019 Wisconsin
+Platte 031 Wyoming
+Houghton 061 Michigan
+Rockbridge 163 Virginia
+Rawlins 153 Kansas
+Giles 071 Virginia
+Logan 107 Illinois
+Weber 057 Utah
+Delaware 055 Iowa
+Charles 017 Maryland
+Daniels 019 Montana
+Williams 105 North Dakota
+Alcona 001 Michigan
+Lackawanna 069 Pennsylvania
+McMinn 107 Tennessee
+Franklin 119 Georgia
+Baca 009 Colorado
+Linn 107 Kansas
+McPherson 113 Kansas
+Sullivan 113 Pennsylvania
+Dutchess 027 New York
+Aitkin 001 Minnesota
+Delaware 045 Pennsylvania
+Craig 035 Oklahoma
+Furnas 065 Nebraska
+San Augustine 405 Texas
+Starke 149 Indiana
+Monroe 089 Pennsylvania
+Madison 121 Iowa
+Laramie 021 Wyoming
+Woodson 207 Kansas
+Wilcox 131 Alabama
+Morgan 137 Illinois
+Modoc 049 California
+Wells 179 Indiana
+Knox 121 Kentucky
+Gray 179 Texas
+Buncombe 021 North Carolina
+Polk 153 Iowa
+Summers 089 West Virginia
+North Slope 185 Alaska
+Bibb 021 Georgia
+St. John the Baptist 095 Louisiana
+Socorro 053 New Mexico
+Kent 263 Texas
+Jefferson 037 West Virginia
+Butts 035 Georgia
+Clearwater 035 Idaho
+Hancock 081 Iowa
+Archer 009 Texas
+Dawes 045 Nebraska
+Hancock 045 Mississippi
+Barceloneta 017 Puerto Rico
+Potter 105 Pennsylvania
+Catahoula 025 Louisiana
+Cibola 006 New Mexico
+Bonner 017 Idaho
+Aibonito 009 Puerto Rico
+Lamar 171 Georgia
+Jefferson 099 Missouri
+Washington 053 Utah
+White 193 Illinois
+Presque Isle 141 Michigan
+Shannon 113 South Dakota
+Grafton 009 New Hampshire
+Floyd 153 Texas
+Leon 073 Florida
+Scott 127 Arkansas
+Jefferson 101 Iowa
+Cayey 035 Puerto Rico
+Cassia 031 Idaho
+Buffalo 019 Nebraska
+Bonneville 019 Idaho
+Hardy 031 West Virginia
+Fairfax 059 Virginia
+Fayette 019 West Virginia
+Pickaway 129 Ohio
+Humboldt 013 Nevada
+Camden 029 Missouri
+Logan 113 Nebraska
+Chaffee 015 Colorado
+Hawkins 073 Tennessee
+Forrest 035 Mississippi
+McLennan 309 Texas
+Rowan 205 Kentucky
+Beltrami 007 Minnesota
+Montgomery 173 Kentucky
+Garfield 017 Utah
+Paulding 125 Ohio
+Uinta 041 Wyoming
+Jessamine 113 Kentucky
+Brown 013 Kansas
+Choctaw 023 Alabama
+Bennington 003 Vermont
+Carbon 007 Wyoming
+Brown 013 South Dakota
+Montgomery 097 Mississippi
+Williamson 187 Tennessee
+Izard 065 Arkansas
+Union 087 South Carolina
+Burnett 013 Wisconsin
+Henry 073 Illinois
+Brewster 043 Texas
+Wilkinson 319 Georgia
+Scotland 199 Missouri
+Nevada 057 California
+Anson 007 North Carolina
+Santa Clara 085 California
+Todd 153 Minnesota
+Jefferson 111 Kentucky
+Washington 117 Louisiana
+Cochran 079 Texas
+Orocovis 107 Puerto Rico
+Lonoke 085 Arkansas
+Fairfax 600 Virginia
+McLeod 085 Minnesota
+Clinton 035 Pennsylvania
+Santa Rosa 113 Florida
+Nez Perce 069 Idaho
+Walworth 129 South Dakota
+Marion 049 West Virginia
+Lafayette 073 Arkansas
+Custer 039 Oklahoma
+Clay 077 Texas
+Galveston 167 Texas
+Madison 089 Alabama
+Marshall 117 Kansas
+Pulaski 155 Virginia
+Walla Walla 071 Washington
+Calhoun 013 Mississippi
+Tallahatchie 135 Mississippi
+Benton 007 Arkansas
+Chaves 005 New Mexico
+Breckinridge 027 Kentucky
+Edwards 047 Kansas
+Jackson 059 Mississippi
+Cleveland 027 Oklahoma
+Sherman 055 Oregon
+Franklin 071 Missouri
+Covington 039 Alabama
+Bond 005 Illinois
+Highland 091 Virginia
+Antelope 003 Nebraska
+Palo Pinto 363 Texas
+Nelson 063 North Dakota
+Shelby 173 Illinois
+Lancaster 071 Pennsylvania
+St. Helena 091 Louisiana
+Lincoln 111 Nebraska
+Madison 113 Tennessee
+Butler 023 Iowa
+Brevard 009 Florida
+Elbert 105 Georgia
+West Feliciana 125 Louisiana
+Woods 151 Oklahoma
+Clay 051 Kentucky
+Edmunds 045 South Dakota
+Henry 103 Kentucky
+Huntington 069 Indiana
+Franklin 059 Alabama
+Allamakee 005 Iowa
+Androscoggin 001 Maine
+Aroostook 003 Maine
+Glascock 125 Georgia
+Dare 055 North Carolina
+Chester 029 Pennsylvania
+Anderson 005 Kentucky
+Mason 125 Illinois
+Adams 001 Mississippi
+Hempstead 057 Arkansas
+Highlands 055 Florida
+East Carroll 035 Louisiana
+Mitchell 123 Kansas
+Weld 123 Colorado
+Brown 017 Nebraska
+Blackford 009 Indiana
+Shawnee 177 Kansas
+Oconee 073 South Carolina
+Lewis 135 Kentucky
+Llano 299 Texas
+Caddo 015 Oklahoma
+Rapides 079 Louisiana
+Ripley 181 Missouri
+Calhoun 057 Texas
+Rutland 021 Vermont
+Wibaux 109 Montana
+Crawford 055 Missouri
+Robertson 395 Texas
+Bernalillo 001 New Mexico
+Saguache 109 Colorado
+Lincoln 023 Wyoming
+Bartholomew 005 Indiana
+Duval 131 Texas
+Catawba 035 North Carolina
+Greene 041 Mississippi
+Hampshire 015 Massachusetts
+Brazos 041 Texas
+Sullivan 163 Tennessee
+Concordia 029 Louisiana
+Calhoun 015 Alabama
+Calumet 015 Wisconsin
+Delta 041 Michigan
+Putnam 133 Indiana
+Warren 177 Tennessee
+Barnwell 011 South Carolina
+Washtenaw 161 Michigan
+Forest 053 Pennsylvania
+Goliad 175 Texas
+Pushmataha 127 Oklahoma
+Winkler 495 Texas
+Burt 021 Nebraska
+Madison 123 Missouri
+Logan 075 Colorado
+Carter 035 Missouri
+Alleghany 005 North Carolina
+New London 011 Connecticut
+Crockett 105 Texas
+Sterling 431 Texas
+Portage 097 Wisconsin
+Erie 043 Ohio
+Benewah 009 Idaho
+Seminole 117 Florida
+Hart 099 Kentucky
+King and Queen 097 Virginia
+Carver 019 Minnesota
+Kanabec 065 Minnesota
+Lincoln 073 Colorado
+Baker 007 Georgia
+Randolph 243 Georgia
+Campbell 021 South Dakota
+Spalding 255 Georgia
+York 091 South Carolina
+Coal 029 Oklahoma
+Cass 029 Iowa
+Sweet Grass 097 Montana
+Norman 107 Minnesota
+Madison 119 Nebraska
+Red Lake 125 Minnesota
+Orangeburg 075 South Carolina
+Potter 375 Texas
+Bryan 013 Oklahoma
+Newton 217 Georgia
+Onslow 133 North Carolina
+Daviess 027 Indiana
+Emanuel 107 Georgia
+Navajo 017 Arizona
+Green Lake 047 Wisconsin
+Potter 107 South Dakota
+Linn 043 Oregon
+Bladen 017 North Carolina
+Lake 097 Illinois
+Castro 069 Texas
+Anoka 003 Minnesota
+Crawford 079 Georgia
+Fulton 057 Pennsylvania
+Allendale 005 South Carolina
+Cullman 043 Alabama
+Somerset 035 New Jersey
+Goshen 015 Wyoming
+White 185 Tennessee
+Moffat 081 Colorado
+Moultrie 139 Illinois
+Hale 189 Texas
+Lake 065 Colorado
+Hamlin 057 South Dakota
+Los Alamos 028 New Mexico
+Red River 387 Texas
+Alexander 003 North Carolina
+Marshall 117 Tennessee
+Fergus 027 Montana
+Boone 015 Iowa
+Arapahoe 005 Colorado
+Lauderdale 077 Alabama
+Grant 053 Indiana
+Clay 061 Georgia
+Knox 083 Indiana
+LaSalle 099 Illinois
+LaGrange 087 Indiana
+Richland 077 North Dakota
+Kleberg 273 Texas
+Grand Isle 013 Vermont
+Steuben 101 New York
+St. Louis 137 Minnesota
+Claiborne 025 Tennessee
+Shenandoah 171 Virginia
+Lincoln 069 Wisconsin
+Allen 003 Kentucky
+Esmeralda 009 Nevada
+Wexford 165 Michigan
+Wabaunsee 197 Kansas
+Fluvanna 065 Virginia
+Maui 009 Hawaii
+Christian 043 Missouri
+Grundy 075 Iowa
+Boyd 019 Kentucky
+Grant 037 North Dakota
+Columbia 021 Wisconsin
+Caroline 011 Maryland
+Chelan 007 Washington
+Granville 077 North Carolina
+Mills 333 Texas
+Colonial Heights 570 Virginia
+Colusa 011 California
+Ventura 111 California
+Rich 033 Utah
+Jones 253 Texas
+Coffey 031 Kansas
+Phillips 107 Arkansas
+Placer 061 California
+Crawford 033 Ohio
+Benton 003 Oregon
+Bledsoe 007 Tennessee
+Tyler 457 Texas
+Duchesne 013 Utah
+Grayson 077 Virginia
+Lyman 085 South Dakota
+Chippewa 033 Michigan
+Oneida 071 Idaho
+Boise 015 Idaho
+Toa Alta 135 Puerto Rico
+Coosa 037 Alabama
+Bedford 515 Virginia
+Lancaster 109 Nebraska
+Russell 167 Kansas
+Marion 197 Georgia
+Spencer 215 Kentucky
+Carroll 015 Mississippi
+Ogle 141 Illinois
+San Lorenzo 129 Puerto Rico
+Dallas 039 Arkansas
+Bay 005 Florida
+Chippewa 023 Minnesota
+Shelby 149 Ohio
+Duval 031 Florida
+Sonoma 097 California
+Fulton 051 Ohio
+Acadia 001 Louisiana
+Stanislaus 099 California
+Fallon 025 Montana
+Sullivan 105 New York
+Gonzales 177 Texas
+Clark 025 South Dakota
+Scott 143 Indiana
+Clarendon 027 South Carolina
+Nelson 179 Kentucky
+Columbia 027 Arkansas
+Laurens 059 South Carolina
+Childress 075 Texas
+Morovis 101 Puerto Rico
+Gage 067 Nebraska
+Isabela 071 Puerto Rico
+Jasper 073 Indiana
+Johnson 103 Iowa
+Cooper 053 Missouri
+Wilson 195 North Carolina
+Worcester 027 Massachusetts
+Pinal 021 Arizona
+Iberia 045 Louisiana
+Yuma 027 Arizona
+Clark 045 Missouri
+Polk 373 Texas
+Prince of Wales-Hyder 198 Alaska
+Lamb 279 Texas
+Hancock 067 Tennessee
+Preston 077 West Virginia
+Licking 089 Ohio
+Hatillo 065 Puerto Rico
+Wayne 117 New York
+Lincoln 063 Idaho
+Cabell 011 West Virginia
+Marion 155 Kentucky
+King William 101 Virginia
+Ritchie 085 West Virginia
+Middlesex 023 New Jersey
+Loudoun 107 Virginia
+Gilchrist 041 Florida
+Erath 143 Texas
+Schuyler 169 Illinois
+Lafayette 071 Mississippi
+Telfair 271 Georgia
+Hardeman 069 Tennessee
+Seward 175 Kansas
+Hidalgo 215 Texas
+Seminole 253 Georgia
+Teller 119 Colorado
+Adair 001 Missouri
+Trimble 223 Kentucky
+Okanogan 047 Washington
+Clinton 045 Iowa
+Orange 361 Texas
+Clay 027 Minnesota
+Corson 031 South Dakota
+Menard 129 Illinois
+Fairbanks North Star 090 Alaska
+Miller 091 Arkansas
+Monroe 055 New York
+Kingfisher 073 Oklahoma
+Wood 107 West Virginia
+Throckmorton 447 Texas
+Cottonwood 033 Minnesota
+Payne 119 Oklahoma
+Eaton 045 Michigan
+Archuleta 007 Colorado
+Emery 015 Utah
+Seminole 133 Oklahoma
+Polk 119 Minnesota
+Holmes 059 Florida
+Cumberland 035 Illinois
+Putnam 155 Illinois
+Union 125 Florida
+Bedford 003 Tennessee
+Kershaw 055 South Carolina
+Labette 099 Kansas
+Sussex 005 Delaware
+Overton 133 Tennessee
+Chesterfield 025 South Carolina
+Harris 145 Georgia
+Gem 045 Idaho
+Perry 145 Illinois
+Hand 059 South Dakota
+Ripley 137 Indiana
+Franklin 021 Washington
+Morrill 123 Nebraska
+Hamilton 079 Iowa
+Williamsburg 089 South Carolina
+Shelby 157 Tennessee
+Decatur 031 Indiana
+Halifax 083 Virginia
+Millard 027 Utah
+Utuado 141 Puerto Rico
+Tuolumne 109 California
+Haines 100 Alaska
+Schoolcraft 153 Michigan
+Dorado 051 Puerto Rico
+Adams 001 Washington
+Ralls 173 Missouri
+Island 029 Washington
+Lipscomb 295 Texas
+Southeast Fairbanks 240 Alaska
+Evangeline 039 Louisiana
+Roanoke 770 Virginia
+St. Charles 183 Missouri
+Spokane 063 Washington
+Osceola 133 Michigan
+Orange 071 New York
+Washington 183 Iowa
+Marion 121 Illinois
+Shelby 145 Indiana
+Falls 145 Texas
+Marathon 073 Wisconsin
+Scott 209 Kentucky
+Lynchburg 680 Virginia
+Lafayette 107 Missouri
+Garfield 045 Colorado
+Shelby 117 Alabama
+Calhoun 037 Georgia
+San Germán 125 Puerto Rico
+Allegheny 003 Pennsylvania
+Rock 105 Wisconsin
+Moody 101 South Dakota
+Clay 041 Iowa
+Pamlico 137 North Carolina
+Sebastian 131 Arkansas
+Jackson 075 Michigan
+Merced 047 California
+Collingsworth 087 Texas
+Kenedy 261 Texas
+Greenlee 011 Arizona
+Alexander 003 Illinois
+Parke 121 Indiana
+Martin 317 Texas
+Clark 019 Arkansas
+Madison 089 Mississippi
+Franklin 069 North Carolina
+Cataño 033 Puerto Rico
+Reno 155 Kansas
+Keith 101 Nebraska
+Oxford 017 Maine
+Webster 119 Louisiana
+Madison 097 Ohio
+Perry 099 Pennsylvania
+Morton 059 North Dakota
+Oakland 125 Michigan
+Marinette 075 Wisconsin
+Calhoun 013 Arkansas
+Hyde 069 South Dakota
+Kalawao 005 Hawaii
+Pierce 053 Washington
+Stone 131 Mississippi
+Bacon 005 Georgia
+Linn 115 Missouri
+Honolulu 003 Hawaii
+New Kent 127 Virginia
+Brule 015 South Dakota
+Hardin 093 Kentucky
+Muscatine 139 Iowa
+Roosevelt 085 Montana
+Doña Ana 013 New Mexico
+Chautauqua 019 Kansas
+Johnson 019 Wyoming
+San Joaquin 077 California
+Wharton 481 Texas
+Suwannee 121 Florida
+Dubuque 061 Iowa
+Peach 225 Georgia
+McLean 055 North Dakota
+Glacier 035 Montana
+Stewart 161 Tennessee
+Marshall 051 West Virginia
+Kosciusko 085 Indiana
+Leflore 083 Mississippi
+Pike 113 Mississippi
+Bell 013 Kentucky
+Webster 307 Georgia
+Bannock 005 Idaho
+Miller 131 Missouri
+Hampshire 027 West Virginia
+Klickitat 039 Washington
+Lancaster 103 Virginia
+Carteret 031 North Carolina
+Lycoming 081 Pennsylvania
+Bee 025 Texas
+Tippah 139 Mississippi
+Wayne 191 Illinois
+Moniteau 135 Missouri
+Dimmit 127 Texas
+Woodruff 147 Arkansas
+Greene 059 Tennessee
+Pike 231 Georgia
+Union 175 Iowa
+Clare 035 Michigan
+Orange 135 North Carolina
+Montgomery 139 Missouri
+Effingham 049 Illinois
+Houston 225 Texas
+Dixon 051 Nebraska
+Jefferson Davis 065 Mississippi
+Humphreys 053 Mississippi
+Hooker 091 Nebraska
+Lee 103 Illinois
+McCurtain 089 Oklahoma
+Montgomery 031 Maryland
+Wasco 065 Oregon
+Bristol Bay 060 Alaska
+Hockley 219 Texas
+Grand 049 Colorado
+Henrico 087 Virginia
+Delta 119 Texas
+Mississippi 133 Missouri
+Aguada 003 Puerto Rico
+Ste. Genevieve 186 Missouri
+Pratt 151 Kansas
+Oldham 185 Kentucky
+Camp 063 Texas
+Salt Lake 035 Utah
+Yukon-Koyukuk 290 Alaska
+Loving 301 Texas
+Lassen 035 California
+Wheeler 483 Texas
+Houston 069 Alabama
+Wayne 127 Pennsylvania
+Terrell 443 Texas
+Las Piedras 085 Puerto Rico
+Morrow 117 Ohio
+Darlington 031 South Carolina
+Champaign 021 Ohio
+Penobscot 019 Maine
+Mason 045 Washington
+Dorchester 019 Maryland
+Schuylkill 107 Pennsylvania
+Marshall 157 Kentucky
+Mountrail 061 North Dakota
+Warren 187 Illinois
+San Sebastián 131 Puerto Rico
+Person 145 North Carolina
+Limestone 293 Texas
+Muscogee 215 Georgia
+Rogers 131 Oklahoma
+Baylor 023 Texas
+York 199 Virginia
+Wilkes 193 North Carolina
+Trinity 105 California
+Carroll 013 Maryland
+Chambers 071 Texas
+Piatt 147 Illinois
+Steele 147 Minnesota
+Emmet 063 Iowa
+Ponce 113 Puerto Rico
+Atchison 005 Missouri
+Smith 159 Tennessee
+Ellis 139 Texas
+Quay 037 New Mexico
+Accomack 001 Virginia
+Boone 011 Indiana
+Wichita 485 Texas
+Pike 109 Alabama
+Tulare 107 California
+Grainger 057 Tennessee
+Manatí 091 Puerto Rico
+Providence 007 Rhode Island
+St. Croix 109 Wisconsin
+Dundy 057 Nebraska
+Hood River 027 Oregon
+Rockingham 015 New Hampshire
+Cecil 015 Maryland
+Minidoka 067 Idaho
+Ross 141 Ohio
+Cherokee 021 South Carolina
+Van Wert 161 Ohio
+Rockland 087 New York
+Pottawatomie 149 Kansas
+Chouteau 015 Montana
+San Juan 055 Washington
+Box Butte 013 Nebraska
+King 269 Texas
+Cotton 033 Oklahoma
+Lawrence 109 Missouri
+Crowley 025 Colorado
+Prince Edward 147 Virginia
+Madison 313 Texas
+St. Lawrence 089 New York
+Ransom 073 North Dakota
+Cumberland 057 Kentucky
+Snyder 109 Pennsylvania
+Greene 079 Virginia
+Calcasieu 019 Louisiana
+Hendry 051 Florida
+Palm Beach 099 Florida
+Rock 133 Minnesota
+Panola 365 Texas
+Union 181 Illinois
+Kootenai 055 Idaho
+Caroline 033 Virginia
+St. Clair 185 Missouri
+Floyd 043 Indiana
+Taliaferro 265 Georgia
+Santa Cruz 023 Arizona
+Montgomery 097 Arkansas
+Pierce 229 Georgia
+Kinney 271 Texas
+New Hanover 129 North Carolina
+Texas 215 Missouri
+Bland 021 Virginia
+Beaverhead 001 Montana
+Hanover 085 Virginia
+Menominee 078 Wisconsin
+Jackson 077 Illinois
+Caguas 025 Puerto Rico
+Iroquois 075 Illinois
+Middlesex 017 Massachusetts
+Jackson 079 Ohio
+Orange 017 Vermont
+St. Tammany 103 Louisiana
+Benson 005 North Dakota
+Caswell 033 North Carolina
+East Feliciana 037 Louisiana
+Atascosa 013 Texas
+Talbot 263 Georgia
+Chowan 041 North Carolina
+Chickasaw 017 Mississippi
+Sheridan 083 North Dakota
+Hancock 141 Georgia
+Vermilion 113 Louisiana
+Effingham 103 Georgia
+Decatur 053 Iowa
+Shoshone 079 Idaho
+Scott 163 Iowa
+Beckham 009 Oklahoma
+Roberts 109 South Dakota
+Inyo 027 California
+Fremont 013 Wyoming
+Denton 121 Texas
+Cumberland 035 Tennessee
+Macon 115 Illinois
+Montgomery 101 Alabama
+Madison 119 Illinois
+Henderson 077 Tennessee
+Fredericksburg 630 Virginia
+Maunabo 095 Puerto Rico
+Georgetown 043 South Carolina
+Washburn 129 Wisconsin
+Live Oak 297 Texas
+Walton 131 Florida
+Pepin 091 Wisconsin
+Winn 127 Louisiana
+Adair 001 Iowa
+Jackson 029 Oregon
+Frio 163 Texas
+Storey 029 Nevada
+Howard 027 Maryland
+Dickey 021 North Dakota
+Washington 151 Mississippi
+Crow Wing 035 Minnesota
+Cowlitz 015 Washington
+Cherokee 021 Kansas
+Randolph 111 Alabama
+Smith 423 Texas
+Tuscarawas 157 Ohio
+Blair 013 Pennsylvania
+Poquoson 735 Virginia
+Monroe 095 Arkansas
+Windham 015 Connecticut
+Franklin 073 Kentucky
+Kenai Peninsula 122 Alaska
+Stanton 187 Kansas
+Waynesboro 820 Virginia
+Kewaunee 061 Wisconsin
+Logan 109 Kansas
+Greene 059 Pennsylvania
+Wayne 185 Iowa
+Eureka 011 Nevada
+Richland 083 Montana
+Merrimack 013 New Hampshire
+Hancock 067 Illinois
+Ashley 003 Arkansas
+Knox 275 Texas
+Nevada 099 Arkansas
+Stark 151 Ohio
+Big Horn 003 Montana
+Winneshiek 191 Iowa
+Emporia 595 Virginia
+Guayama 057 Puerto Rico
+Clallam 009 Washington
+Wolfe 237 Kentucky
+Beaufort 013 North Carolina
+Bleckley 023 Georgia
+Terrebonne 109 Louisiana
+Hopewell 670 Virginia
+Sequatchie 153 Tennessee
+Converse 009 Wyoming
+Big Stone 011 Minnesota
+Fairfield 045 Ohio
+Alachua 001 Florida
+Lincoln 053 Montana
+Obion 131 Tennessee
+Nobles 105 Minnesota
+Arecibo 013 Puerto Rico
+Fresno 019 California
+Houston 055 Minnesota
+Chilton 021 Alabama
+Suffolk 025 Massachusetts
+Faulkner 045 Arkansas
+Sharkey 125 Mississippi
+Latimer 077 Oklahoma
+Brantley 025 Georgia
+Pulaski 131 Indiana
+Cedar 031 Iowa
+Alamosa 003 Colorado
+Callaway 027 Missouri
+Summit 117 Colorado
+James City 095 Virginia
+Caledonia 005 Vermont
+Bolivar 011 Mississippi
+Ohio 069 West Virginia
+Sedgwick 173 Kansas
+Dukes 007 Massachusetts
+Hancock 029 West Virginia
+Otter Tail 111 Minnesota
+Powell 197 Kentucky
+Lapeer 087 Michigan
+Stevens 065 Washington
+Appanoose 007 Iowa
+Lawrence 093 Indiana
+Grant 043 Wisconsin
+Clay 019 Florida
+Van Buren 175 Tennessee
+Clayton 063 Georgia
+Jones 105 Iowa
+Jerauld 073 South Dakota
+Buchanan 027 Virginia
+Coles 029 Illinois
+Martin 117 North Carolina
+Frederick 069 Virginia
+Gilliam 021 Oregon
+Lake 079 South Dakota
+Tillamook 057 Oregon
+Washington 477 Texas
+Kendall 093 Illinois
+Garfield 033 Montana
+Hudson 017 New Jersey
+Yauco 153 Puerto Rico
+Pike 131 Ohio
+Rensselaer 083 New York
+Stewart 259 Georgia
+Nye 023 Nevada
+Montcalm 117 Michigan
+Montgomery 137 Iowa
+Polk 233 Georgia
+Jasper 159 Georgia
+Deuel 039 South Dakota
+Stillwater 095 Montana
+Missaukee 113 Michigan
+Sacramento 067 California
+Duplin 061 North Carolina
+Nolan 353 Texas
+Mecklenburg 117 Virginia
+Polk 105 Florida
+Washington 179 Tennessee
+McHenry 049 North Dakota
+Monona 133 Iowa
+Hardee 049 Florida
+Lanier 173 Georgia
+Pickens 107 Alabama
+Cook 031 Minnesota
+Taylor 441 Texas
+Boone 005 West Virginia
+McIntosh 191 Georgia
+Jackson 063 Minnesota
+Pope 115 Arkansas
+Johnson 091 Kansas
+Gooding 047 Idaho
+Warren 123 Pennsylvania
+Monongalia 061 West Virginia
+Catoosa 047 Georgia
+Rio Grande 105 Colorado
+Mason 319 Texas
+Dade 057 Missouri
+Hennepin 053 Minnesota
+Van Zandt 467 Texas
+Victoria 469 Texas
+Scurry 415 Texas
+Cass 037 Missouri
+Stone 137 Arkansas
+Winston 133 Alabama
+Queen Anne's 035 Maryland
+Morgan 115 Ohio
+Bremer 017 Iowa
+Allegan 005 Michigan
+Mason 105 Michigan
+Strafford 017 New Hampshire
+Logan 083 Arkansas
+Perry 123 Indiana
+Gallatin 031 Montana
+Washoe 031 Nevada
+Wabash 185 Illinois
+Johnson 115 Kentucky
+Pendleton 191 Kentucky
+Johnson 087 Illinois
+Henry 065 Indiana
+Hardin 083 Iowa
+Natchitoches 069 Louisiana
+Wayne 055 Utah
+Johnson 101 Missouri
+Mason 053 West Virginia
+Richmond 760 Virginia
+Tyler 095 West Virginia
+New York 061 New York
+Bracken 023 Kentucky
+Yazoo 163 Mississippi
+Graves 083 Kentucky
+Judith Basin 045 Montana
+Jackson 109 Kentucky
+Scott 171 Illinois
+Fayette 047 Tennessee
+Ottawa 123 Ohio
+Foster 031 North Dakota
+McKinley 031 New Mexico
+Gladwin 051 Michigan
+Northumberland 097 Pennsylvania
+Marshall 093 Mississippi
+Waushara 137 Wisconsin
+Koochiching 071 Minnesota
+Geneva 061 Alabama
+Fremont 043 Colorado
+Putnam 079 West Virginia
+Sibley 143 Minnesota
+Lincoln 109 North Carolina
+Wayne 191 North Carolina
+Franklin 011 Massachusetts
+Washington 175 Indiana
+Harrison 047 Mississippi
+Indian River 061 Florida
+Sioux 167 Iowa
+Douglas 019 Oregon
+Suffolk 800 Virginia
+Taos 055 New Mexico
+Pocahontas 075 West Virginia
+Vernon 115 Louisiana
+Bailey 017 Texas
+Jo Daviess 085 Illinois
+Washington 125 Pennsylvania
+Livingston 117 Missouri
+Meade 163 Kentucky
+Douglas 017 Washington
+Buckingham 029 Virginia
+Cass 017 North Dakota
+Jefferson 031 Oregon
+Montezuma 083 Colorado
+Lamar 073 Mississippi
+Berkeley 003 West Virginia
+Natrona 025 Wyoming
+Shackelford 417 Texas
+Ozark 153 Missouri
+Pope 151 Illinois
+Washington 187 North Carolina
+Bon Homme 009 South Dakota
+Macon 113 North Carolina
+Door 029 Wisconsin
+Sherman 421 Texas
+Hamilton 075 Kansas
+Arlington 013 Virginia
+Orange 095 Florida
+Skamania 059 Washington
+New Castle 003 Delaware
+Rankin 121 Mississippi
+Humacao 069 Puerto Rico
+Kitsap 035 Washington
+Wake 183 North Carolina
+Washakie 043 Wyoming
+Canyon 027 Idaho
+Carroll 015 Indiana
+Miami 103 Indiana
+Montgomery 121 Virginia
+Lincoln 081 Oklahoma
+Petroleum 069 Montana
+Galax 640 Virginia
+El Paso 141 Texas
+Dickinson 059 Iowa
+Valley 105 Montana
+Refugio 391 Texas
+Lee 105 Virginia
+Racine 101 Wisconsin
+Allen 001 Kansas
+Sawyer 113 Wisconsin
+Plymouth 023 Massachusetts
+Crittenden 035 Arkansas
+Pender 141 North Carolina
+Worcester 047 Maryland
+Howard 089 Missouri
+Ashe 009 North Carolina
+Bennett 007 South Dakota
+Howard 093 Nebraska
+Lincoln 085 Mississippi
+Douglas 035 Colorado
+Dauphin 043 Pennsylvania
+Pike 195 Kentucky
+Union 119 Pennsylvania
+Cheatham 021 Tennessee
+Cole 051 Missouri
+Briscoe 045 Texas
+Bronx 005 New York
+Canóvanas 029 Puerto Rico
+Jefferson 245 Texas
+Christian 047 Kentucky
+Kiowa 075 Oklahoma
+Covington 031 Mississippi
+Isle of Wight 093 Virginia
+Alexandria 510 Virginia
+Coffee 031 Tennessee
+Lake 085 Michigan
+Muskogee 101 Oklahoma
+Barry 015 Michigan
+Sumter 119 Alabama
+Barnes 003 North Dakota
+Charleston 019 South Carolina
+Hampton 650 Virginia
+Smith 129 Mississippi
+Dickens 125 Texas
+Cherry 031 Nebraska
+Adair 001 Oklahoma
+Buffalo 017 South Dakota
+Greenwood 047 South Carolina
+Fauquier 061 Virginia
+Tuscola 157 Michigan
+Escambia 033 Florida
+Burke 013 North Dakota
+Bradley 011 Arkansas
+Shasta 089 California
+Panola 107 Mississippi
+Haskell 207 Texas
+Trousdale 169 Tennessee
+Lee 111 Iowa
+Maury 119 Tennessee
+Iberville 047 Louisiana
+Hettinger 041 North Dakota
+Wadena 159 Minnesota
+Graham 065 Kansas
+Ness 135 Kansas
+Piscataquis 021 Maine
+Graham 009 Arizona
+Audubon 009 Iowa
+Wright 171 Minnesota
+Noble 121 Ohio
+Hall 139 Georgia
+Chesterfield 041 Virginia
+Cherokee 035 Iowa
+Russell 167 Virginia
+Rooks 163 Kansas
+Marshall 123 Illinois
+Ingham 065 Michigan
+Pope 121 Minnesota
+La Plata 067 Colorado
+Roseau 135 Minnesota
+Gentry 075 Missouri
+Burleson 051 Texas
+Eddy 015 New Mexico
+Coshocton 031 Ohio
+Lafayette 067 Florida
+Hancock 059 Indiana
+Curry 009 New Mexico
+DeKalb 049 Alabama
+Cidra 041 Puerto Rico
+Upshur 459 Texas
+Rabun 241 Georgia
+Houston 153 Georgia
+Madison 057 Montana
+Fayette 065 Iowa
+Sheridan 091 Montana
+Benzie 019 Michigan
+Marlboro 069 South Carolina
+Lunenburg 111 Virginia
+Jackson 085 Kansas
+Jefferson 081 Illinois
+Walsh 099 North Dakota
+Foard 155 Texas
+Jackson 071 Indiana
+Lehigh 077 Pennsylvania
+Washington 303 Georgia
+Brooks 027 Georgia
+Ballard 007 Kentucky
+Calhoun 025 Michigan
+Oregon 149 Missouri
+Luzerne 079 Pennsylvania
+Simpson 213 Kentucky
+Platte 165 Missouri
+Hardin 065 Ohio
+Rusk 401 Texas
+Jim Wells 249 Texas
+Beaver 007 Pennsylvania
+Camuy 027 Puerto Rico
+Winnebago 189 Iowa
+Osage 151 Missouri
+Lajas 079 Puerto Rico
+Silver Bow 093 Montana
+Noble 103 Oklahoma
+Kings 047 New York
+Putnam 237 Georgia
+Meigs 121 Tennessee
+Hampden 013 Massachusetts
+Lee 081 Alabama
+Scott 123 Mississippi
+Washita 149 Oklahoma
+Pennington 113 Minnesota
+Mesa 077 Colorado
+Webster 187 Iowa
+Jackson 157 Georgia
+Gallatin 059 Illinois
+Chesapeake 550 Virginia
+Fillmore 059 Nebraska
+Kiowa 061 Colorado
+Uvalde 463 Texas
+Marion 125 Iowa
+Union 225 Kentucky
+Swisher 437 Texas
+Middlesex 007 Connecticut
+Pulaski 169 Missouri
+Green 087 Kentucky
+Mills 129 Iowa
+Perry 105 Alabama
+Morgan 129 Tennessee
+Rutherford 149 Tennessee
+Newton 101 Mississippi
+Colfax 007 New Mexico
+Guánica 055 Puerto Rico
+San Mateo 081 California
+Schenectady 093 New York
+Benton 005 Tennessee
+Grant 067 Kansas
+Jasper 079 Illinois
+Haywood 075 Tennessee
+McDowell 111 North Carolina
+Sagadahoc 023 Maine
+Sauk 111 Wisconsin
+Osborne 141 Kansas
+Bath 017 Virginia
+Clarke 059 Georgia
+Washington 115 New York
+San Juan 037 Utah
+Athens 009 Ohio
+Wyoming 121 New York
+Washington 029 Maine
+Isabella 073 Michigan
+Culpeper 047 Virginia
+Braxton 007 West Virginia
+Vilas 125 Wisconsin
+Stanly 167 North Carolina
+Spartanburg 083 South Carolina
+Baraga 013 Michigan
+DeWitt 123 Texas
+Iowa 095 Iowa
+Citrus 017 Florida
+Sullivan 211 Missouri
+Lake 037 Oregon
+Alcorn 003 Mississippi
+Crenshaw 041 Alabama
+Dixie 029 Florida
+Randolph 175 Missouri
+Ferry 019 Washington
+Freeborn 047 Minnesota
+Whitley 235 Kentucky
+Lawrence 099 Tennessee
+DeSoto 027 Florida
+Clay 027 Tennessee
+Sheridan 179 Kansas
+Jefferson 069 Arkansas
+Posey 129 Indiana
+Skagway 230 Alaska
+Powder River 075 Montana
+Barbour 005 Alabama
+Ketchikan Gateway 130 Alaska
+Nicollet 103 Minnesota
+Traverse 155 Minnesota
+Salinas 123 Puerto Rico
+Kankakee 091 Illinois
+Jones 075 South Dakota
+Belmont 013 Ohio
+Lauderdale 097 Tennessee
+Conecuh 035 Alabama
+Lincoln 061 Louisiana
+Salem 033 New Jersey
+Okaloosa 091 Florida
+Mayagüez 097 Puerto Rico
+Ward 475 Texas
+Grant 051 South Dakota
+Hardin 071 Tennessee
+Warren 219 Missouri
+Muskingum 119 Ohio
+Van Buren 159 Michigan
+Pickett 137 Tennessee
+Monroe 105 Indiana
+Jefferson 089 Tennessee
+Sevier 133 Arkansas
+Warren 149 Mississippi

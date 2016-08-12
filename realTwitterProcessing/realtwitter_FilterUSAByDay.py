@@ -1,0 +1,122 @@
+# -*- coding: utf-8 -*-
+
+import gzip
+import json
+import carmen,os
+from multiprocessing import Pool
+import time
+
+
+
+def oneDayTest_revised():
+
+    locfile=open("../data/realTwitter/testLocationChek.txt","a+")
+    loc_day=0
+    total_day=0
+    global Fcount
+
+    for filename in os.listdir("/home/kitware/aalim/data/Twitter/"):
+        print "Processing File "+filename
+        count=0
+        totalcount=0
+        with gzip.open("/home/kitware/aalim/data/Twitter/"+filename,"rb") as tf:
+            for i,line in enumerate(tf.readlines()):
+
+                totalcount+=1
+                if i>=0:
+
+                    tweet=json.loads(line)
+
+                    if tweet.has_key("delete"):
+                        continue
+
+                    if tweet['geo']==None and tweet["place"]==None and tweet["coordinates"]==None:
+
+                        continue
+                    #for key,value in tweet.items():
+                    #    print key,value
+
+                    count+=1
+                    resolver = carmen.get_resolver()
+                    resolver.load_locations()
+                    label,location = resolver.resolve_tweet(tweet)
+                    print"<=="+filename.split("%")[0]+" .... "+str(count)+"/"+str(totalcount)
+                    #print(location,tweet['geo'],tweet["place"],tweet["coordinates"])
+                    #print(json.dumps(tweet, indent=4))
+                    locfile.write(str(location)+"\n")
+
+
+                    #keys_list=tweet.keys()
+                    #for key,value in tweet.items():
+                    #    print key,value
+                else:
+                    break
+            print(str(count)+"/"+str(totalcount))
+            Fcount+1
+            loc_day+=count
+            total_day+=totalcount
+            locfile.write(str(location)+"\n")
+    print(str(count)+"/"+str(totalcount))
+    return str(count)+"/"+str(totalcount)
+Fcount=0
+def main_singleFileFN(fileName):
+    #print(fileName)
+    global Fcount
+    count=0
+    totalcount=0
+    t0=time.time()
+    print("processing: "+fileName.split("/")[-1])
+    with open("/media/kitware/My Passport/twitter_USA/"+fileName.split("/")[-2]+"/"+((fileName.split("/")[-1]).split("T")[0]).split(".")[1]+".txt","a+") as locfile:
+        with open(fileName,"rb") as tf:
+            for i,line in enumerate(tf.readlines()):
+                line=line.strip()
+                if len(line.strip())<1 and not line:
+                    break
+                else:
+
+                    if i>=0:
+                        try:
+                            tweet=json.loads(line)
+                            resolver = carmen.get_resolver()
+                            resolver.load_locations()
+                            falg,location = resolver.resolve_tweet(tweet)
+                            #print i,"@@",location
+                            if location.name()[0]=="United States":
+                                #print(i,)
+                                print ">>",i,location,location.name()[0],((fileName.split("/")[-1]).split("T")[0]).split(".")[1]
+                                totalcount+=1
+                                locfile.write(line+"\n")
+                        except:
+                            #print "exp:--",i,line
+                            continue
+
+                        if tweet.has_key("delete"):
+                            continue
+
+                        if tweet.get('geo')==None and tweet.get("place")==None and tweet.get("coordinates")==None:
+
+                            continue
+
+                        #print(fileName.split("/")[-1]+str(count)+"/"+str(totalcount))
+                        count+=1
+                        #
+
+                    else:
+                        break
+    Fcount+=1
+
+    print("##########################################\n"+str(Fcount)+" "+fileName.split("/")[-1]+"  "+str(count)+"/"+str(totalcount)+"\n##########################################\n")
+    print(time.time()-t0," sec...")
+    return str(count)+"/"+str(totalcount)
+
+
+if __name__ == "__main__":
+    file_list=[]
+    folders=["/media/kitware/My Passport/twitterWithGeoInfo/2013-05/","/media/kitware/My Passport/twitterWithGeoInfo/2013-10/"]
+    for i,folder in enumerate(folders):
+        for j,filename in enumerate(os.listdir(folder)):
+            if i>=0:
+                main_singleFileFN(folder+filename)
+
+
+

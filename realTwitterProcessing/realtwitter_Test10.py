@@ -155,7 +155,7 @@ def oneDayTest_revised():
             locfile.write(str(location)+"\n")
     print(str(count)+"/"+str(totalcount))
     return str(count)+"/"+str(totalcount)
-    
+
 def main_singleFileFN(fileName):
     #print(fileName)
     global Fcount
@@ -163,7 +163,7 @@ def main_singleFileFN(fileName):
     totalcount=0
     t0=time.time()
     print("processing: "+fileName.split("/")[-1])
-    with open("../data/realTwitter/"+fileName.split("/")[-2]+"0/"+".".join((fileName.split("/")[-1]).split(".")[:-1])+".txt","w") as locfile:
+    with open("/media/kitware/My Passport/"+fileName.split("/")[-2]+"0/"+".".join((fileName.split("/")[-1]).split(".")[:-1])+".txt","w") as locfile:
         with gzip.open(fileName,"rb") as tf:
             for i,line in enumerate(tf.readlines()):
                 line=line.strip()
@@ -192,7 +192,7 @@ def main_singleFileFN(fileName):
                     else:
                         break
     Fcount+=1
-    
+
     print("##########################################\n"+str(Fcount)+" "+fileName.split("/")[-1]+"  "+str(count)+"/"+str(totalcount)+"\n##########################################\n")
     print(time.time()-t0," sec...")
     return str(count)+"/"+str(totalcount)
@@ -200,23 +200,23 @@ def main_singleFileFN(fileName):
 
 if __name__ == "__main__":
     file_list=[]
-    folders=["/media/kitware/My Passport/twitter/2013-05/boston.lti.cs.cmu.edu/twitter_data/twitter_corpus/2013-05/","media/kitware/My Passport/twitter/2013-10/boston.lti.cs.cmu.edu/twitter_data/twitter_corpus/2013-10/"]
-    folders=["G:/twitter/2013-05/boston.lti.cs.cmu.edu/twitter_data/twitter_corpus/2013-05/","G:/twitter/2013-10/boston.lti.cs.cmu.edu/twitter_data/twitter_corpus/2013-10/"]
+    folders=["/media/kitware/My Passport/twitter/2013-05/boston.lti.cs.cmu.edu/twitter_data/twitter_corpus/2013-05/","/media/kitware/My Passport/twitter/2013-10/boston.lti.cs.cmu.edu/twitter_data/twitter_corpus/2013-10/"]
+    #folders=["G:/twitter/2013-05/boston.lti.cs.cmu.edu/twitter_data/twitter_corpus/2013-05/","G:/twitter/2013-10/boston.lti.cs.cmu.edu/twitter_data/twitter_corpus/2013-10/"]
     mon=["2013-05-","2013-10-"]
-    dfl=['tweets.2013-10-01T00%3A00.M=000.gz', 'tweets.2013-10-01T00%3A15.M=000.gz', 'tweets.2013-10-01T00%3A30.M=000.gz', 'tweets.2013-10-01T00%3A45.M=000.gz', 'tweets.2013-10-01T01%3A00.M=000.gz', 'tweets.2013-10-01T01%3A15.M=000.gz', 'tweets.2013-10-01T01%3A30.M=000.gz', 'tweets.2013-10-01T01%3A45.M=000.gz', 'tweets.2013-10-01T02%3A00.M=000.gz', 'tweets.2013-10-01T02%3A15.M=000.gz', 'tweets.2013-10-01T02%3A30.M=000.gz', 'tweets.2013-10-01T02%3A45.M=000.gz', 'tweets.2013-10-01T03%3A00.M=000.gz', 'tweets.2013-10-01T03%3A15.M=000.gz', 'tweets.2013-10-01T03%3A30.M=000.gz', 'tweets.2013-10-01T03%3A45.M=000.gz', 'tweets.2013-10-01T04%3A00.M=000.gz', 'tweets.2013-10-01T04%3A15.M=000.gz', 'tweets.2013-10-01T04%3A30.M=000.gz', 'tweets.2013-10-01T04%3A45.M=000.gz', 'tweets.2013-10-01T05%3A00.M=000.gz', 'tweets.2013-10-01T05%3A15.M=000.gz', 'tweets.2013-10-01T05%3A30.M=000.gz', 'tweets.2013-10-01T05%3A45.M=000.gz', 'tweets.2013-10-01T06%3A00.M=000.gz', 'tweets.2013-10-01T06%3A15.M=000.gz', 'tweets.2013-10-01T06%3A30.M=000.gz', 'tweets.2013-10-01T06%3A45.M=000.gz', 'tweets.2013-10-01T07%3A00.M=000.gz', 'tweets.2013-10-01T07%3A15.M=000.gz', 'tweets.2013-10-01T07%3A30.M=000.gz', 'tweets.2013-10-01T07%3A45.M=000.gz', 'tweets.2013-10-01T08%3A00.M=000.gz', 'tweets.2013-10-01T08%3A15.M=000.gz', 'tweets.2013-10-01T08%3A30.M=000.gz', 'tweets.2013-10-01T08%3A45.M=000.gz', 'tweets.2013-10-01T09%3A00.M=000.gz', 'tweets.2013-10-01T09%3A15.M=000.gz', 'tweets.2013-10-01T09%3A30.M=000.gz', 'tweets.2013-10-01T09%3A45.M=000.gz', 'tweets.2013-10-01T10%3A00.M=000.gz', 'tweets.2013-10-01T10%3A15.M=000.gz', 'tweets.2013-10-01T10%3A30.M=000.gz', 'tweets.2013-10-01T10%3A45.M=000.gz', 'tweets.2013-10-01T11%3A00.M=000.gz', 'tweets.2013-10-01T11%3A15.M=000.gz', 'tweets.2013-10-01T11%3A30.M=000.gz', 'tweets.2013-10-01T11%3A45.M=000.gz', 'tweets.2013-10-01T12%3A00.M=000.gz', 'tweets.2013-10-01T12%3A15.M=000.gz', 'tweets.2013-10-01T12%3A30.M=000.gz', 'tweets.2013-10-01T12%3A45.M=000.gz', 'tweets.2013-10-01T13%3A00.M=000.gz', 'tweets.2013-10-01T13%3A15.M=000.gz', 'tweets.2013-10-01T13%3A30.M=000.gz', 'tweets.2013-10-01T13%3A45.M=000.gz', 'tweets.2013-10-01T14%3A01.M=000.gz', 'tweets.2013-10-01T14%3A15.M=000.gz', 'tweets.2013-10-01T14%3A30.M=000.gz', 'tweets.2013-10-01T14%3A45.M=000.gz', 'tweets.2013-10-01T15%3A00.M=000.gz', 'tweets.2013-10-01T15%3A15.M=000.gz', 'tweets.2013-10-01T15%3A30.M=000.gz', 'tweets.2013-10-01T15%3A45.M=000.gz', 'tweets.2013-10-01T16%3A00.M=000.gz', 'tweets.2013-10-01T16%3A15.M=000.gz', 'tweets.2013-10-01T16%3A30.M=000.gz', 'tweets.2013-10-01T16%3A45.M=000.gz', 'tweets.2013-10-01T17%3A00.M=000.gz', 'tweets.2013-10-01T17%3A15.M=000.gz', 'tweets.2013-10-01T17%3A30.M=000.gz', 'tweets.2013-10-01T17%3A45.M=000.gz', 'tweets.2013-10-01T18%3A00.M=000.gz', 'tweets.2013-10-01T18%3A15.M=000.gz', 'tweets.2013-10-01T18%3A30.M=000.gz', 'tweets.2013-10-01T18%3A45.M=000.gz', 'tweets.2013-10-01T19%3A00.M=000.gz', 'tweets.2013-10-01T19%3A15.M=000.gz', 'tweets.2013-10-01T19%3A30.M=000.gz', 'tweets.2013-10-01T19%3A45.M=000.gz', 'tweets.2013-10-01T20%3A00.M=000.gz', 'tweets.2013-10-01T20%3A15.M=000.gz']
+
     dfl=[]
-    for filename in os.listdir("../data/realTwitter/2013-100/"):
+    for filename in os.listdir("/media/kitware/My Passport/2013-100/"):
         dfl.append(".".join(filename.split(".")[:-1])+".gz")
-        
+
     for i,folder in enumerate(folders[1:]):
-        
+
         for filename in os.listdir(folder):
             if filename.startswith("t") and filename not in dfl:
                 #print(filename)
                 file_list.append(filename)
                 main_singleFileFN(folder+filename)
-            
-            
+
+
 #        print(i,mon[i])
 #        #for filename in os.listdir("/home/kitware/aalim/data/Twitter/"):
 #        monStr=mon[i]
