@@ -1,0 +1,1007 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b89728f-2334-40a4-9fd2-baf3af4c6ab9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gncnd/USA_ghcnd-stations-loc_withInfo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gncnd/USA_ghcnd-stations-loc_withInfo3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gncnd/USA_ghcnd-stations-loc_withInfo4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gncnd/gz_2010_us_050_00_500k.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gncnd/mymap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/realTwitterProcessing/BaseMapTest.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/best_model2.pkl" afterPath="$PROJECT_DIR$/best_model2.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/3wolfmoon.jpg" afterPath="$PROJECT_DIR$/data/3wolfmoon.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/result/HiddenUnitNo.png" afterPath="$PROJECT_DIR$/data/result/HiddenUnitNo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea192_K1000_test.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea192_K1000_test.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea192_K1000_train.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea192_K1000_train.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea192_K1000_verify.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea192_K1000_verify.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea290_K2500_test.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea290_K2500_test.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea290_K2500_train.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea290_K2500_train.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea290_K2500_verify.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea290_K2500_verify.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea291_K1500_test.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea291_K1500_test.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea291_K1500_train.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea291_K1500_train.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea291_K1500_verify.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea291_K1500_verify.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea389_K2500_test.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea389_K2500_test.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea389_K2500_train.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea389_K2500_train.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea389_K2500_verify.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea389_K2500_verify.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea391_K5000_test.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea391_K5000_test.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea391_K5000_train.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea391_K5000_train.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea391_K5000_verify.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_Fea391_K5000_verify.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_HighFea194_K1000_test.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_HighFea194_K1000_test.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_HighFea194_K1000_train.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_HighFea194_K1000_train.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_HighFea194_K1000_verify.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_HighFea194_K1000_verify.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_HighFea200_K50_test.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_HighFea200_K50_test.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_HighFea200_K50_train.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_HighFea200_K50_train.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/simuTW_3Class_HighFea200_K50_verify.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/simuTW_3Class_HighFea200_K50_verify.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/twitterSimuData100.zip" afterPath="$PROJECT_DIR$/data/simuData/twitterSimuData100.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/twitterSimuData96Fea.zip" afterPath="$PROJECT_DIR$/data/simuData/twitterSimuData96Fea.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/twitterSimuData96Fea100.zip" afterPath="$PROJECT_DIR$/data/simuData/twitterSimuData96Fea100.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/twitterSimuData96Fea10000.zip" afterPath="$PROJECT_DIR$/data/simuData/twitterSimuData96Fea10000.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/twitterSimuData96Fea3Class.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/twitterSimuData96Fea3Class.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/twitterSimuData96Fea3Class500.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/twitterSimuData96Fea3Class500.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/simuData/twitterSimuData96Fea3Class500_small.pkl.zip" afterPath="$PROJECT_DIR$/data/simuData/twitterSimuData96Fea3Class500_small.pkl.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gncnd/stationMap.jpg" afterPath="$PROJECT_DIR$/gncnd/stationMap.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mnist.pkl.gz" afterPath="$PROJECT_DIR$/mnist.pkl.gz" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_0.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_0.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_1.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_10.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_11.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_11.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_12.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_12.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_13.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_13.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_14.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_14.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_2.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_3.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_4.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_5.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_6.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_6.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_7.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_8.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_9.png" afterPath="$PROJECT_DIR$/rbm_plots0/filters_at_epoch_9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbm_plots0/samples.png" afterPath="$PROJECT_DIR$/rbm_plots0/samples.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hand_Writing.py" afterPath="$PROJECT_DIR$/Hand_Writing.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RBM.py" afterPath="$PROJECT_DIR$/RBM.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwitterSimuDataGen/TestBigArrLoadingSpeed.py" afterPath="$PROJECT_DIR$/TwitterSimuDataGen/TestBigArrLoadingSpeed.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwitterSimuDataGen/chi.py" afterPath="$PROJECT_DIR$/TwitterSimuDataGen/chi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwitterSimuDataGen/data/data_cleanser.py" afterPath="$PROJECT_DIR$/TwitterSimuDataGen/data/data_cleanser.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwitterSimuDataGen/data/wCold.txt" afterPath="$PROJECT_DIR$/TwitterSimuDataGen/data/wCold.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwitterSimuDataGen/data/wHot.txt" afterPath="$PROJECT_DIR$/TwitterSimuDataGen/data/wHot.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwitterSimuDataGen/data/weather expressions.txt" afterPath="$PROJECT_DIR$/TwitterSimuDataGen/data/weather expressions.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwitterSimuDataGen/data/words.txt" afterPath="$PROJECT_DIR$/TwitterSimuDataGen/data/words.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwitterSimuDataGen/genPickleFormat.py" afterPath="$PROJECT_DIR$/TwitterSimuDataGen/genPickleFormat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwitterSimuDataGen/simuDataGenerator.py" afterPath="$PROJECT_DIR$/TwitterSimuDataGen/simuDataGenerator.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TwitterSimuDataGen/simuDataGenerator3Class.py" afterPath="$PROJECT_DIR$/TwitterSimuDataGen/simuDataGenerator3Class.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Twitter_Classification_MLP.py" afterPath="$PROJECT_DIR$/Twitter_Classification_MLP.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/best_model.pkl" afterPath="$PROJECT_DIR$/best_model.pkl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/convolutional_mlp.py" afterPath="$PROJECT_DIR$/convolutional_mlp.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/result/hidden_N_result.txt" afterPath="$PROJECT_DIR$/data/result/hidden_N_result.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/result/plot.py" afterPath="$PROJECT_DIR$/data/result/plot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gncnd/NYC.html" afterPath="$PROJECT_DIR$/gncnd/NYC.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gncnd/USA_ghcnd-stations-loc_city_states.txt" afterPath="$PROJECT_DIR$/gncnd/USA_ghcnd-stations-loc_city_states.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gncnd/USA_ghcnd-stations-loc_countyLevel.txt" afterPath="$PROJECT_DIR$/gncnd/USA_ghcnd-stations-loc_countyLevel.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gncnd/county_state.txt" afterPath="$PROJECT_DIR$/gncnd/county_state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gncnd/getStateId2Name.py" afterPath="$PROJECT_DIR$/gncnd/getStateId2Name.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gncnd/state_GEEJson.json" afterPath="$PROJECT_DIR$/gncnd/state_GEEJson.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gncnd/station_mapPlot.py" afterPath="$PROJECT_DIR$/gncnd/station_mapPlot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gncnd/station_trans_location_USA_county.py" afterPath="$PROJECT_DIR$/gncnd/station_trans_location_USA_county.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gncnd/station_trans_location_USA_info.py" afterPath="$PROJECT_DIR$/gncnd/station_trans_location_USA_info.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logistic_sgd.py" afterPath="$PROJECT_DIR$/logistic_sgd.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/logistic_sgd_modified.py" afterPath="$PROJECT_DIR$/logistic_sgd_modified.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realTwitterProcessing/realtwitter_FilterUSAByDay.py" afterPath="$PROJECT_DIR$/realTwitterProcessing/realtwitter_FilterUSAByDay.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realTwitterProcessing/realtwitter_FilterUSAByDay10.py" afterPath="$PROJECT_DIR$/realTwitterProcessing/realtwitter_FilterUSAByDay10.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/realTwitterProcessing/realtwitter_Test10.py" afterPath="$PROJECT_DIR$/realTwitterProcessing/realtwitter_Test10.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils.py" afterPath="$PROJECT_DIR$/utils.py" />
+    </list>
+    <ignored path="NEX_MLP.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="NEX_MLP" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="auto_label_twitter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/realTwitterProcessing/auto_label_twitter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="realtwitter_FilterUSAByDay.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/realTwitterProcessing/realtwitter_FilterUSAByDay.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="man_label.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/realTwitterProcessing/man_label.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+              <folding>
+                <element signature="e#86#100#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reaultCorection.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/realTwitterProcessing/reaultCorection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RealTwitter_Classification_MLP.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RealTwitter_Classification_MLP.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="401" column="0" selection-start-line="401" selection-start-column="0" selection-end-line="401" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="check_city level_geo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gncnd/check_city level_geo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/realTwitterProcessing/ProcessTweets.py" />
+        <option value="$PROJECT_DIR$/realTwitterProcessing/auto_label_twitter10.py" />
+        <option value="$PROJECT_DIR$/data/wCold.txt" />
+        <option value="$PROJECT_DIR$/data/sss.py" />
+        <option value="$PROJECT_DIR$/TwitterSimuDataGen/chi.py" />
+        <option value="$PROJECT_DIR$/gen_realTwitterFeaVector.py" />
+        <option value="$PROJECT_DIR$/RealTwitter_Classification_MLP.py" />
+        <option value="$USER_HOME$/aalim/studio/src/Algo2_callgraph.py" />
+        <option value="$PROJECT_DIR$/gncnd/NewUSA_ghcnd-stations-loc_all.txt" />
+        <option value="$PROJECT_DIR$/gncnd/station_trans_location_USA_info.py" />
+        <option value="$PROJECT_DIR$/gncnd/check_city level_geo.py" />
+        <option value="$PROJECT_DIR$/realTwitterProcessing/auto_label_twitter.py" />
+        <option value="$PROJECT_DIR$/realTwitterProcessing/reaultCorection.py" />
+        <option value="$PROJECT_DIR$/data/wKeywords.txt" />
+        <option value="$PROJECT_DIR$/realTwitterProcessing/man_label.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1659" />
+    <option name="y" value="24" />
+    <option name="width" value="1861" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpellCheckingInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEX_MLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEX_MLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEX_MLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEX_MLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEX_MLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="realTwitterProcessing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEX_MLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEX_MLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEX_MLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEX_MLP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="realTwitter" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Python.man_label">
+    <configuration default="false" name="man_label" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/realTwitterProcessing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NEX_MLP" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/realTwitterProcessing/man_label.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Algo2_callgraph" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/aalim/studio/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NEX_MLP" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/aalim/studio/src/Algo2_callgraph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="check_city level_geo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gncnd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NEX_MLP" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gncnd/check_city level_geo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="station_trans_location_USA_info" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gncnd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NEX_MLP" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gncnd/station_trans_location_USA_info.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="reaultCorection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/realTwitterProcessing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NEX_MLP" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/realTwitterProcessing/reaultCorection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NEX_MLP" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NEX_MLP" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NEX_MLP" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NEX_MLP" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NEX_MLP" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NEX_MLP" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="NEX_MLP" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.man_label" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Algo2_callgraph" />
+      <item index="2" class="java.lang.String" itemvalue="Python.check_city level_geo" />
+      <item index="3" class="java.lang.String" itemvalue="Python.station_trans_location_USA_info" />
+      <item index="4" class="java.lang.String" itemvalue="Python.reaultCorection" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.man_label" />
+        <item index="1" class="java.lang.String" itemvalue="Python.reaultCorection" />
+        <item index="2" class="java.lang.String" itemvalue="Python.check_city level_geo" />
+        <item index="3" class="java.lang.String" itemvalue="Python.station_trans_location_USA_info" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Algo2_callgraph" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b89728f-2334-40a4-9fd2-baf3af4c6ab9" name="Default" comment="" />
+      <created>1471534112645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1471534112645</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1659" y="24" width="1861" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3353036" sideWeight="0.49323308" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3204301" sideWeight="0.5002687" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47114375" sideWeight="0.51209027" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32795697" sideWeight="0.49586776" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30430108" sideWeight="0.49382052" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14900315" sideWeight="0.48790973" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23052123" sideWeight="0.49782372" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32795697" sideWeight="0.4936639" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TwitterSimuDataGen/chi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="66" column="51" selection-start-line="66" selection-start-column="51" selection-end-line="66" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter_Classification_MLP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6945">
+          <caret line="463" column="11" selection-start-line="463" selection-start-column="4" selection-end-line="463" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realTwitterProcessing/auto_label_twitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/result/hidden_N__RealTwitter_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realTwitterProcessing/auto_label_twitter10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/aalim/studio/src/FC_ScoreAlgo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realTwitterProcessing/realtwitter_FilterUSAByDay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sss.py" />
+    <entry file="file://$PROJECT_DIR$/TwitterSimuDataGen/chi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen_realTwitterFeaVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1830">
+          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#201#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterSimuDataGen/simuDataGenerator3Class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2625">
+          <caret line="177" column="36" selection-start-line="177" selection-start-column="0" selection-end-line="177" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realTwitterProcessing/auto_label_twitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realTwitterProcessing/auto_label_twitter10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="70" column="39" selection-start-line="70" selection-start-column="39" selection-end-line="70" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realTwitterProcessing/ProcessTweets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterSimuDataGen/chi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen_realTwitterFeaVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="2873" />
+          <folding>
+            <element signature="e#175#201#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logistic_sgd_modified.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/sklearn/metrics/classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5285">
+          <caret line="1073" column="0" selection-start-line="1073" selection-start-column="0" selection-end-line="1073" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterSimuDataGen/simuDataGenerator3Class.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="258" column="2" selection-start-line="257" selection-start-column="0" selection-end-line="259" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realTwitterProcessing/realtwitter_FilterUSAByDay10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realTwitterProcessing/ProcessTweets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-555">
+          <caret line="23" column="51" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logistic_sgd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="460" column="34" selection-start-line="460" selection-start-column="34" selection-end-line="460" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/result/HiddenUnitNo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/result/hidden_N_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Twitter_Classification_MLP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="463" column="11" selection-start-line="463" selection-start-column="4" selection-end-line="463" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterSimuDataGen/chi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="66" column="51" selection-start-line="66" selection-start-column="51" selection-end-line="66" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/result/hidden_N__RealTwitter_result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realTwitterProcessing/auto_label_twitter10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/aalim/studio/src/FC_ScoreAlgo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/aalim/studio/src/Algo2_callgraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RealTwitter_Classification_MLP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="401" column="0" selection-start-line="401" selection-start-column="0" selection-end-line="401" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gen_realTwitterFeaVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
+          <folding>
+            <element signature="e#175#201#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gncnd/NewUSA_ghcnd-stations-loc_all.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="549" column="26" selection-start-line="549" selection-start-column="26" selection-end-line="549" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gncnd/unknownStations.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gncnd/state_init.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gncnd/station_Loc.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650218">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/sss.py" />
+    <entry file="file://$PROJECT_DIR$/gncnd/station_trans_location_USA_info.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="81" column="13" selection-start-line="81" selection-start-column="13" selection-end-line="81" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gncnd/USA_ghcnd-stations-loc_all.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gncnd/station_USA_CityLevel_Location.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gncnd/check_city level_geo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/wHot.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/wCold.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realTwitterProcessing/auto_label_twitter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realTwitterProcessing/realtwitter_FilterUSAByDay.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="85" column="13" selection-start-line="85" selection-start-column="13" selection-end-line="85" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realTwitterProcessing/reaultCorection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/wKeywords.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="106" column="6" selection-start-line="106" selection-start-column="6" selection-end-line="106" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/realTwitterProcessing/man_label.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="112" column="0" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+          <folding>
+            <element signature="e#86#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

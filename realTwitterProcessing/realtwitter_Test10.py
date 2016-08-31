@@ -163,7 +163,7 @@ def main_singleFileFN(fileName):
     totalcount=0
     t0=time.time()
     print("processing: "+fileName.split("/")[-1])
-    with open("/media/kitware/My Passport/"+fileName.split("/")[-2]+"0/"+".".join((fileName.split("/")[-1]).split(".")[:-1])+".txt","w") as locfile:
+    with open("/media/kitware/My Passport/"+fileName.split("/")[-2]+"/"+".".join((fileName.split("/")[-1]).split(".")[:-1])+".txt","w") as locfile:
         with gzip.open(fileName,"rb") as tf:
             for i,line in enumerate(tf.readlines()):
                 line=line.strip()
@@ -205,13 +205,13 @@ if __name__ == "__main__":
     mon=["2013-05-","2013-10-"]
 
     dfl=[]
-    for filename in os.listdir("/media/kitware/My Passport/2013-100/"):
-        dfl.append(".".join(filename.split(".")[:-1])+".gz")
+    #for filename in os.listdir("/media/kitware/My Passport/2013-100/"):
+    #    dfl.append(".".join(filename.split(".")[:-1])+".gz")
 
     for i,folder in enumerate(folders[1:]):
 
         for filename in os.listdir(folder):
-            if filename.startswith("t") and filename not in dfl:
+            if filename.startswith("t") and ((filename.split("/")[-1]).split("T")[0]).split(".")[1]=="2013-10-31":
                 #print(filename)
                 file_list.append(filename)
                 main_singleFileFN(folder+filename)

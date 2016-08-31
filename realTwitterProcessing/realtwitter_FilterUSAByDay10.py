@@ -5,7 +5,7 @@ import json
 import carmen,os
 from multiprocessing import Pool
 import time
-
+import json, requests
 
 
 def oneDayTest_revised():
@@ -77,31 +77,40 @@ def main_singleFileFN(fileName):
                     if i>=0:
                         try:
                             tweet=json.loads(line)
-                            resolver = carmen.get_resolver()
-                            resolver.load_locations()
-                            falg,location = resolver.resolve_tweet(tweet)
-                            #print i,"@@",location
-                            if location.name()[0]=="United States":
-                                #print(i,)
-                                print ">>",i,location,location.name()[0],((fileName.split("/")[-1]).split("T")[0]).split(".")[1]
-                                totalcount+=1
-                                locfile.write(line+"\n")
-                            else:
-                                continue
-                        except:
-                            #print "exp:--",i,line
-                            continue
 
+                        except:
+                            print "exp:--",i,line
+                            continue
+                        totalcount+=1
                         if tweet.has_key("delete"):
                             continue
-
                         if tweet.get('geo')==None and tweet.get("place")==None and tweet.get("coordinates")==None:
-
+                            print "@@@\n,@@@\n,@@@\n,@@@\n,@@@\n,@@@\n"
                             continue
+                        if tweet.get("place")!=None:
+                            if tweet.get("place")["country"]=="United States":
+                                locfile.write(line+"\n")
+                                count+=1
+                        else:
+                            if tweet.get('geo')!=None:
+                                coord=tweet.get('geo')["coordinates"]
+                            elif tweet.get("coordinates")!=None:
+                                coord=tweet.get('coordinates')["coordinates"]
+                            #print coord
+                            geo_code=str(coord[0])+","+str(coord[1])
+                            url="http://localhost:8081/geocoder.html?ll="+geo_code
+                            resp = requests.get(url)
+                            if len(resp.json()['interpretations'])>0:
+                                cityFeat=dict(dict(resp.json()['interpretations'][-1])['feature'])['name']
+                                if str(cityFeat)=="United States":
+                                    locfile.write(line+"\n")
+                                    print ">>>",cityFeat
+                                    count+=1
 
-                        #print(fileName.split("/")[-1]+str(count)+"/"+str(totalcount))
-                        count+=1
-                        #
+                            else:
+                                continue
+
+
 
                     else:
                         break
