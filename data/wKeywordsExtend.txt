@@ -105,3 +105,9 @@ windy
 summer
 winter
 autumn
+clothes
+sweater
+coat
+respiratory
+monsoon
+mist
