@@ -111,3 +111,8 @@ coat
 respiratory
 monsoon
 mist
+zone
+heating
+blanket
+throws
+glove
